@@ -1,0 +1,729 @@
+<unk>	UNKNOWN
+Me gusta la leche. En mi casa siempre tomo leche por las mañanas para desayunar	LECHE SABOR BUENO CASA YO DESAYUNAR TODOS-LOS-DÍAS
+¡Qué divertido pintar! ¿Tú qué has pintado?	COLOR PINTAR YO BIEN YO ENCANTAR DIVERTIDO TU COLOR PINTAR QUE?
+¿Qué te pasa? Tienes cara de enfadada.	QUE-PASA? TU CARA TRISTE ENFADADA
+Que venga mi amiga Susana ¿la puedo invitar?	AMIGA SUSANA QUIERO VENIR, INVITAR PODER?
+Voy andando a la calle, a esperar el autobús.	 CALLE IR YO ANDAR ESPERAR BUS YO MONTAR-BUS
+¿Dónde vives?.	 TU VIVIR DONDE?
+El otoño empieza el 23 de septiembre y dura hasta el 21 de diciembre.	OTOÑO EMPEZAR 23 SEPTIEMBRE HASTA 21 DICIEMBRE.
+En verano los días son más largos pero en otoño son cortos y se hace pronto de noche.	VERANO DÍA LARGUÍSIMO, OTOÑO DÍA CORTO, NOCHE PRONTO.
+Los pájaros vuelan marchándose lejos, porque buscan el buen tiempo, ya que en otoño empieza a hacer frío.	PÁJARO \cl{volar} MUY-LEJOS TIEMPO CALIENTE BUSCAR MOTIVO OTOÑO EMPEZAR MUCHO-FRÍO.
+Algunos animales como la ardilla se preparan guardando la comida, porque luego en invierno no hay.	ANIMAL ALGUNOS EJEMPLO ARDILLA COMIDA PREPARAR GUARDAR ANTES, MOTIVO INVIERNO COMIDA HABER NO.
+Las hojas verdes de los árboles cambian de color y se vuelven amarillas-marrones y se caen de los árboles.	ÁRBOL, HOJA COLOR VERDE CONVERTIRSE AMARILLO MARRÓN, HOJA \cl{se caen hojas del árbol}.
+El otoño es la mejor época para comer castañas, las setas, los frutos secos y frutas como las peras, las manzanas y las uvas.	CASTAÑA SETA FRUTO SECO COMER ÉPOCA MEJOR OTOÑO, FRUTA TAMBIÉN PERA MANZANA UVAS.
+El invierno empieza el 22 de diciembre y llega hasta el 21 de marzo.	INVIERNO EMPEZAR 22 DICIEMBRE HASTA 21 MARZO.
+Los días son muy cortos y enseguida se hace de noche.	DÍA MUY-CORTO, NOCHE YA, MUCHO-FRÍO.
+Hace mucho frío y hay zonas en las que nieva.	MUCHO-FRÍO DEPENDER ZONA NIEVE.
+Hay que ponerse mucha ropa: abrigo, gorro, guantes, bufanda, botas...	ROPA ABRIGO GORRO GUANTES BUFANDA BOTAS.
+Hay animales como el oso que duermen que se quedan metidos en su cueva, durmiendo.	INVIERNO ANIMAL EJEMPLO OSO CUEVA \cl{hiberna en la cueva} DORMIR+.
+El invierno está bien porque está la Navidad, hay vacaciones, viene Papá Noel, los Reyes Magos, hay regalos, y hay comida rica: turrón, polvorones, etc.	INVIERNO BUENO MOTIVO NAVIDAD VACACIONES PAPÁ-NOEL REYES-MAGOS REGALO-pl. COMIDA MUY-BUENO EJEMPLO TURRÓN \cl{polvorón} VARIOS.
+Las mejores frutas de esta estación son la naranja y la mandarina.	INVIERNO FRUTA MUY-BUENO EL-MEJOR NARANJA MANDARINA.
+La primavera empieza el 22 de marzo y llega hasta el 21 de junio.	PRIMAVERA EMPEZAR 22 MARZO HASTA 21 JUNIO.
+Los días se van alargando y hace menos frío.	DÍA CADA-VEZ-MÁS-LARGO, FRÍO CADA-VEZ-MENOS.
+El tiempo empieza a mejorar, aunque a veces llueve y hay viento.	TIEMPO EMPEZAR CADA-VEZ-MEJOR, A-VECES LLOVER VIENTO.
+Vuelven los pájaros que antes se habían ido.	PÁJARO VOLAR ANTES \cl{los pájaros migran}. AHORA OTRA-VEZ \cl{los pájaros vuelven volando}.
+En primavera nacen flores nuevas y el paisaje es muy verde.	PRIMAVERA, \cl{salen muchas flores}. CAMPO HIERBA VERDE.
+Es una buena época para las fresas, y las ciruelas, que pueden ser de tres colores: verde, amarilla y morada, con un hueso marrón dentro.	PRIMAVERA FRUTA ÉPOCA BUENO FRESA OTRO CIRUELA COLOR PODER 3 VERDE AMARILLO MORADO, DENTRO CIRUELA HUESO MARRÓN.
+Hay otra fruta parecida pero más grande y de color rosa-rojo y que con sabor ácido.	FRUTO OTRO GRANDE PARECIDO GRANDE++ ESTE COLOR ROSA ROJO SABOR ÁCIDO.
+El verano empieza el 22 de junio y llega hasta el 22 de septiembre.	VERANO EMPEZAR 22 JUNIO HASTA 22 SEPTIEMBRE.
+Los días son muy largos y el sol tarda mucho en irse, hace mucho calor.	DÍA CADA-VEZ-MÁS-LARGO. SOL \cl{baja el sol}. ANOCHECER TARDAR, MUCHO-CALOR.
+Hace falta poca ropa: camiseta, pantalón corto, chancletas...	ROPA POCO, CAMISETA PANTALÓN \cl{pantalones cortos} CHANCLETA.
+En esta época, los árboles tienen frutas.	VERANO ÉPOCA ÁRBOL HOJA \cl{muchas hojas en el árbol} FRUTA \cl{muchos frutos en el árbol}
+El verano es la época en la que nacen los animales. El verano es guay porque están las vacaciones, se empieza a ir a la playa, a la piscina, al monte, a los campamentos y se disfruta mucho.	VERANO ÉPOCA ANIMAL NACER++. VERANO GUAY VACACIONES EMPEZAR IR PLAYA PISCINA MONTAÑA CAMPAMENTO DISFRUTAR.
+Estoy en el primer ciclo, en segundo.  Mis compañeros tienen entre 7 y 8 años.	YO CLASE PRIMER CICLO SEGUNDO. COMPAÑERO EDAD 7, 8,
+Tengo 15 compañeros, 4 somos sordos y 11 son oyentes.	COMPAÑERO 1 5, SORDO 4, OYENTE 1 1
+La edad de mi profesor, ¡uf! Tiene 42 años ¡uf!.	PROFESOR EDAD ¡UF! 4 2 ¡UF!.
+¡Qué agua más fría! Un sinónimo de "fría"... a ver que piense... ah sí ¡agua "fría"!.	SEÑALAR AGUA HELADA. HELADA SIGNO SINÓNIMO++ OTRO PENSAR AH! AGUA MUY-FRÍA.
+¿Dos más dos son cinco? Es un fallo. ¿Dos más dos son cinco? Es una equivocación. ¿Dos más dos son cinco? Es un error. Estos tres signos "fallo", "equivocación" y "error" son sinónimos.	SEÑALAR DOS MÁS DOS CINCO? FALLO, DOS MÁS DOS CINCO EQUIVOCADO, DOS MÁS DOS CINCO ERROR, SIGNO FALLO EQUIVOCAR ERROR, ESTOS 3 SINÓNIMO
+Mira qué diferencia entre estos dos coches: uno es muy grande y el otro muy pequeño.	SEÑALAR MIRA DIFERENTE COCHE MUY-GRANDE OTRO COCHE MUY-PEQUEÑO.
+¿Estos dos perros son iguales? ¡No! Uno es negro y el otro blanco, son muy diferentes, justo lo contrario.	ESTOS 2 IGUAL? NO PERRO (IZDO.) NEGRO PERRO (DCHO.) BLANCO ESTOS-DOS MUY-DIFERENTE CONTRAR.
+¿Son diferentes? Claro que sí. Una flor es alta y grande y la otra es pequeñita.	SEÑALAR DIFERENTE? SÍ. FLOR \cl{la flor crece mucho} \cl{flor muy alta}. OTRA FLOR \cl{la flor crece poco} \cl{flor pequeña}
+Estoy contenta, porque estoy pensando en hacer un viaje.	YO CONTENTO, FUTURO PENSAR PREPARAR VIAJE
+¿A dónde vas?	IR DÓNDE
+¿Cómo irás?	IR CÓMO?
+¿Cuándo irás?	IR CUÁNDO?
+Muy bien.	MUY-BIEN
+Sí, el avión es caro	SI AVIÓN CARO.
+No sé cuándo, necesito dinero...Trabajaré y ahorraré y entonces podré hacerlo.	SABER NO CUÁNDO. HACER-FALTA DINERO, PRIMERO TRABAJAR, AHORRAR DESPUÉS HACER.
+Papá, quiero pintar con el color rojo.	PAPÁ QUERER COLOR ROJO PINTA
+No.	NO.
+Si.	SI.
+Que no!	NO!
+Que si!	SI!
+¿Por qué trabajas de jardinera?.	¿TÚ TRABAJAR JARDINERÍA POR QUÉ?
+¿Te gusta tu trabajo?.	TÚ TRABAJO GUSTARSE?.
+Me encanta.	ENCANTARSE.
+¿Todos los días riegas con la manguera?	TÚ AGUA MANGUERA TODOS-LOS-DÍAS?
+¡No! Se riega un día sí y uno no.	NO! AGUA MANGUERA DÍAS-ALTERNOS.
+Hola, ¿qué tal?	HOLA QUÉ-TAL?
+Mi signo es este y me llamo Mario, tengo siete años.	YO SIGNO MARIO NOMBRE \dl{MARIO} EDAD 7
+Mi papá y mi mamá son oyentes, mi hermano es sordo. Solo tengo un hermano.	PAPÁyMAMÁ OYENTE HERMANO SORDO 1 NADA-MÁS.
+Vivo en la Gran Vía, número 5.	YO VIVIR CALLE GRAN-VÍA NÚMERO 5
+He nacido en España.	YO NACER ESPAÑA.
+Ahora cuéntame tú.	AHORA TÚ VENGA CONTAR A-MI.
+Hola, mi signo es este y me llamo Ana. Soy sorda. Ahora vamos a ver el álbum de mi familia, ¡qué recuerdos!.	HOLA YO SIGNO ANA NOMBRE \dl{ANA} YO SORDO. AHORA FAMILIA FOTOS ÁLBUM MIRAR. RECORDAR!
+Mi padre y mi madre son oyentes, se enamoraron y se casaron. No tienen solo una hija sino que somos dos hermanos.	PAPÁ+MAMÁ OYENTE ELLOS ENAMORARSE CASARSE, HIJO 1 NO. HIJO OTRO NOSOTROS 2 HERMANO.
+Mi padre es muy nervioso, fuerte y musculoso. Es moreno y con el pelo muy negro y muy corto, y también tiene mucha barba negra.	 PAPÁ NERVIOSO, FUERTE, MORENO, PELO NEGRO \cl{pelo corto}, BARBA NEGRO.
+Mi madre es muy tranquila, delgada y con la cara alargada, tiene los ojos azules, el pelo rubio y así de largo.	 MAMÁ TRANQUILO, DELGADO, \cl{cara alargada}, OJOS AZUL, PELO RUBIO \cl{melena corta}.
+Nosotros dos somos hermanos, él es oyente, muy tímido y vergonzoso. Es muy alto y con el pelo negro y muy rizado. Tiene pecas.	NOSOTROS 2 HERMANO, ÉL OYENTE, TÍMIDO, VERGONZOSO, ALTO PELO NEGRO \cl{pelo rizado} PECOSO.
+Son mis abuelos, los padres de mi padre.	ELLOS-DOS ABUELO HOMBRE AMO PAP
+Mi abuela ya se murió.	ABUELO MUJER MUERTO
+Mi abuelo es bajito, gordo y gracioso. Es un poco calvo, con el pelo blanco por los lados, y un bigote muy grande.	ABUELO HOMBRE BAJO, GORDO GRACIOSO, CALVO, PELO BLANCO \cl{bigote muy grande}.
+Mi tía, la hermana de mi madre, es muy buena, tranquila, de estatura normal, con gafas y la nariz puntiaguda.	TÍO MUJER MAMÁ AMO 2 HERMANO. TÍO BUENO, TRANQUILO, ALTURA-NORMAL, GAFAS, NARIZ \cl{nariz puntiaguda}.
+Ella estaba casada pero se separaron, y ahora tiene un nuevo novio y ha tenido un hijo con él.	TÍO ESPOSO, 2 SEPARADO. AHORA TÍO NOVIO OTRO JUNTOS HIJO.
+El hijo de mi tía es mi primo. Es bastante travieso, muy guapo, rubio y con el pelo de punta. Tiene los ojos verdes y la boca grande.	YO TÍO HIJO NOSOTROS 2 PRIMO, TRAVIESO, GUAPO, PELO RUBIO, \cl{pelos de punta}, OJOS VERDE, BOCA \cl{labios grandes}.
+Hola, en la última semana de este mes de septiembre, es la fiesta del día mundial de las personas sordas que se celebra todos los años.	HOLA, HOY MES SEPTIEMBRE ÚLTIMO ÚLTIMA-SEMANA FIESTA DÍA MUNDIAL SORDOS MOTIVO SORDO TODOS-LOS-AÑOS ENCUENTRO \cl{mucha gente}.
+¿Qué haces?	HACER?
+He perdido mi lápiz.	LÁPIZ PERDIDO
+¿De qué color es?	COLOR?
+Estoy contento porque mi profesor me ha dado un caramelo. Está muy bueno, es de fresa... ¿Qué? Mi profesor me llama, adiós.	YO CONTENTO MOTIVO PROFESOR CARAMELO DAR A-MI ESTE MUY-RICO, SABOR CUÁL? FRESA. ESTE QUÉ? PROFESOR LLAMAR A-MI. ADIÓS.
+¿Qué es esto? ¡Es un caramelo! Con sabor a fresa ¡qué contento estoy!	ESTO QUÉ? CARAMELO! SABOR FRESA YO CONTENTO!
+Mario no encuentra el caramelo, ha desaparecido. Vamos a pensar en cómo se sentirá Mario: ¿contento, triste, emocionado, enfadado, nervioso, alegre...? ¿Cómo se siente?	MARIO CARAMELO ENCONTRAR NO DESAPARECIDO, NOSOTROS PENSAR MARIO SENTIR CÓMO? CONTENTO TRISTE EMOCIONADO ENFADADO NERVIOSO ALEGRE O CUÁL?
+Hace mucho tiempo yo vivía en un castillo, era una princesa pero estaba muy aburrida.	HACE-MUCHO-TIEMPO YO VIVIR CASTILLO, YO PRINCESA, ABURRIDO
+¿Que si soy un pájaro? No, no soy un pájaro ni tengo alas para volar y tampoco plumas.	PÁJARO YO? VOLAR NO! PLUMAS HABER NO
+Vivo en un lugar donde hace mucho frío.	YO VIVIR DÓNDE? MUCHO-FRÍO
+Visto muy elegante, con una camisa blanca y una chaqueta negra.	ROPA ELEGANTE CAMISA COLOR BLANCO CHAQUETA COLOR NEGRO
+Soy un poco patoso al andar.	YO ANDAR PERFECTO? NO
+Hay muchas...	MUCHAS.
+Sí muchas...	SÍ MUCHAS.
+Ahora me toca a mí, ¡eh!	AHORA TOCAR YO.
+Bueno. A ver...	TÚ? BUENO. A-VER.
+¿Cuál cojo? Esta no. ¿Esta te parece bien?	CUÁL?, ESTA NO. ESTA?
+Vale. ¿A ver qué hay dentro?	ESTA? VALE, A-VER.
+No, espera. ¡Hala!.	ESPERAR. NO. VER-LA-CAJA NO. ESPERAR. ESTA?
+¿Qué es?	QUÉ-HAY?
+Es la lengua estrecha y un poquito hacia afuera. Por ejemplo para hacer "casa pequeñita", o "reloj muy pequeño".	LENGUA ESTRECHO LENGUA \cl{la lengua estáun poquito hacia afuera}. EJEMPLO CASA PEQUEÑITA,RELOJ MUY-PEQUEÑO.
+Muy bien. Perfecto. Ahora me toca a mí.	MUY-BIEN. PERFECTO. YO++.
+Sí, te toca a ti.	SÍ.TOCAR TÚ.
+A ver cuál cojo...¡ésta! ¿Vale?	YO++. ESTA? ESTA!
+Sí, esa. ¿Qué es?	SÍ. ESA, QUÉ?
+Muy bien.	MUY-BIEN.
+Sí, muy bien.	BIEN!
+Ahora me toca a mí.	AHORA YO TOCAR YO.
+Sí. Te toca.	TÚ.
+¿Ésta?	ESTA?
+Sí, ésa. A ver qué hay.	ESPERAR, QUÉ?.
+¿Qué hay?	QUÉ?.
+Otro ejemplo...	OTRO MÁS?
+Ese ejemplo está muy bien. Mejor ahora me toca a mí.	MUY-BIEN. YO++.
+Vale, te toca.	BIEN, TOCAR TÚ.
+Esta.	ESTA?
+Vale.	SÍ.
+¿Qué es?	QUÉ?
+Es verdad.	SÍ, VERDAD.
+¡Muy bien!	MUY-BIEN.
+Sí.	SÍ.
+Me toca a mí. ¡Ésta!	AHORA TOCAR YO++, ESTA!.
+Sí, esta. A ver...	ESTA? SÍ.
+Espera. ¡Ah! Inflando las mejillas. Por ejemplo... "fuerte viento".	ESPERAR, \cl{Inflarlas mejillas}. EJEMPLO \cl{fuerte viento}.
+Muy bien.	MUY-BIEN.
+Sí, bien. Te toca.	BIEN. TÚ.
+Sí, me toca. Elijo ésta.	YO++, ESTA?.
+Sí, ésta. A ver qué hay.	SÍ. A-VER QUÉ?.
+Es "lala". Voy a pensar un ejemplo...	\dl{LALA}. EJEMPLO?
+Un ejemplo...	EJEMPLO?
+"Muy lejos".	MUY-LEJOS.
+Sí, es verdad.	VERDAD.
+"Signarmucho" es verdad.	SIGNAR-MUCHO. VERDAD++.
+Me toca a mí.	AHORA TOCAR YO++.
+Sí, te toca. ¿Cuál quieres?	TÚ. ESTA?
+Esta.	ESTA.
+Sí esa. ¿Qué hay?, ¿qué hay?	ESA? A-VER!.
+Espera. Lo miro yo primero. ¿Sabes qué es?	ESPERAR, YO PRIMERO. QUÉ?
+Ah sí. Vocalizar "po", a ver un ejemplo.	\dl{PO} A-VER, VENGA.
+Por ejemplo... "destacar".	EJEMPLO DESTACAR.
+Otro ejemplo... "perder".	OTRO EJEMPLO, PERDER?
+Perfecto, muy bien.	PERFECTO! MUY-BIEN.
+Me toca.	TOCAR A-MI YO?
+Sí, te toca a ti.	TÚ++.
+¡Qué bien! A ver, esta no.	QUÉ-BIEN! ESTA? NO!
+¿Esa? Vale. Dime. ¿Qué es?	ESA? VALE. DECIR A-MI?. QUÉ?
+Esperar mucho tiempo.	ESPERAR-MUCHO.
+Sí, "esperar mucho tiempo".	SÍ, VERDAD. ESPERAR-MUCHO.
+Llueve mucho.	LLOVER-MUCHO.
+Perfecto.	PERFECTO!
+Muy bien. Ahora tú, ahora tú.	MUY-BIEN! TÚ++.
+Ahora yo... Siemprelo olvido. ¿Cuál de estas dos?	YO AHORA TOCAR YO, SIEMPRE OLVIDAR++. ESTA++?
+¿Esta? Vale.	ESTA? ESTA!
+Muy bien. ¿Qué hay?	BIEN. A-VER?
+Por ejemplo... Ya sé. Mira allí: "estatua".	EJEMPLO, ALLÍ ESTATUA ALLÍ.
+¡Perfecto!	PERFECTO!
+Perfecto. Muy bien.	PERFECTO, MUY-BIEN.
+¿Ahora yo?	YO?.
+Sí, ahora tú.	TÚ SÍ.
+¿Ésta?	ESTA?.
+Sí, ésa, por ejemplo.	ESA? SI.
+Hay muchos.	MUCHA VARIEDAD, ESTAS.
+¡Sí! ¡Muchos!	ESTAS, MUCHAS.
+El tío de Ana se ha comprado un Mercedes.	ANA TÍO HOMBRE COCHE MERCEDES COMPRAR.
+El tío de Ana no se ha comprado un Mercedes.	ANA TÍO HOMBRE COCHE MERCEDES COMPRAR NO.
+¿El tío de Ana se ha comprado un Mercedes?.	ANA TÍO HOMBRE COCHE MERCEDES COMPRAR?
+Creo que el tío de Ana se ha comprado un Mercedes.	ANA TÍO HOMBRE COCHE MERCEDES COMPRAR.
+¡El tío de Ana se ha comprado un Mercedes!	ANA TÍO HOMBRE COCHE MERCEDES COMPRAR!
+¿Conocéis el cuento de los tres cerditos?	CUENTO 3 CERDO CONOCER VOSOTROS?
+La configuración del signo de cerdito es enforma de "c", otra configuración es con la mano en forma de "garra". Usando estas dos configuraciones sale un cuento gracioso, os lo voy a contar.	CERDO SIGNO CONFIGURACIÓN CERDO \dl{C} , OTRA CONFIGURACIÓN \cl{mano en forma de garra} RELACIONAR, GRACIOSO AHORA CONTAR A-TI.
+Con el mes de septiembre para muchos estudiantes comienza una nueva y desafiante etapa en su vida: la entrada en la Universidad.	TOCA MES SEPTIEMBRE PERSONA+ ESTUDIANTE+ EMPEZAR ÉPOCA ESPECIAL VIDA SU, ENTRAR UNIVERSIDAD.
+En el mes de septiembre los estudiantes empiezan una época especial de su vida, la entrada en la universidad.	TOCA MES SEPTIEMBRE PERSONA+ ESTUDIANTE+ EMPEZAR ÉPOCA ESPECIAL VIDA SU, ENTRAR UNIVERSIDAD.
+Casi la mitad de los estudiantes de la Universidad de Sevilla vienen de los pueblos de la provincia y de otras ciudades andaluzas.	CASI MITAD PERSONA+ ESTUDIANTE+ UNIVERSIDAD SEVILLA VENIR DÓNDE?, PUEBLO SU, PROVINCIA SEVILLA O PROVINCIA OTRO.
+Casi la mitad de los estudiantes de la Universidad de Sevilla vienen de los pueblos de su provincia o de otras provincias.	CASI MITAD PERSONA+ ESTUDIANTE+ UNIVERSIDAD SEVILLA VENIR DÓNDE?, PUEBLO SU, PROVINCIA SEVILLA O PROVINCIA OTRO.
+El primer y principal problema con que se encuentran estos alumnos es la búsqueda de una vivienda.	PRIMER PROBLEMA CUÁL?, PERSONA+ ESTUDIANTE+, PROBLEMA CUÁL?, BUSCAR PISO, CASA, VIVIR DÓNDE?.
+El primer problema de los estudiantes es buscar un piso, una casa donde vivir.	PRIMER PROBLEMA CUÁL?, PERSONA+ ESTUDIANTE+, PROBLEMA CUÁL?, BUSCAR PISO, CASA, VIVIR DÓNDE?.
+¿Dónde vivir? es la pregunta que a muchos estudiantes no deja dormir alguna que otra noche.	VIVIR DÓNDE? MUCHAS-VECES POR-LA-NOCHE \cl{persona dando vueltas en la cama} PREOCUPAR+ PROBLEMA ESE.
+¿Dónde vivir? Muchas veces por la noche no pueden dormir preocupados por ese problema.	VIVIR DÓNDE? MUCHAS-VECES POR-LA-NOCHE \cl{persona dando vueltas en la cama} PREOCUPAR+ PROBLEMA ESE.
+Los que tienen más suerte son aquellos que tienen hermanos o amigos que ya viven en Sevilla y que les ayudan a buscar piso.	ALGUNOS SUERTE HAY AMIGO O HERMANO, ETCÉTERA, ESAS PERSONA++ APOYARME PARA BUSCAR PISO.
+Algunos tienen suerte y tienen amigos o hermanos que les apoyan para buscar piso.	ALGUNOS SUERTE HAY AMIGO O HERMANO, ETCÉTERA, ESAS PERSONA++ APOYARME PARA BUSCAR PISO.
+Pero son muchos los que llegan perdidos y asustados y no saben por dónde empezar a buscar.	PERO, MUCHAS-VECES ALGUNOS ABRIR-PUERTA NO SABER IR DÓNDE MOTIVO BUSCAR ZONA NO SABER DÓNDE.
+Pero, muchas veces, algunos no saben por dónde empezar porque no saben buscar la zona.	PERO, MUCHAS-VECES ALGUNOS ABRIR-PUERTA NO SABER IR DÓNDE MOTIVO BUSCAR ZONA NO SABER DÓNDE.
+Se les encuentra por todas partes buscando un piso donde vivir el resto del año.	MUCHAS-VECES SEVILLA ZONA BUSCAR+ \cl{se signa en distintos espacios} PARA VIVIR DURANTE-UN-AÑO.
+Muchas veces buscan por Sevilla donde vivir durante el año.	MUCHAS-VECES SEVILLA ZONA BUSCAR+ \cl{se signa en distintos espacios} PARA VIVIR DURANTE-UN-AÑO.
+A la hora de plantearse vivir fuera de casa, son muchas las alternativas a las que podemos acogernos.	TOCA EMPEZAR CASA VIVIR DENTRO NO, FUERA HAY POSIBILIDAD
+Cuando empiezan a vivir fuera de casa hay muchas posibilidades.	TOCA EMPEZAR CASA VIVIR DENTRO NO, FUERA HAY POSIBILIDAD
+La más extendida quizá entre los estudiantes, es la de alquilar un piso entre varios amigos.	MAYORÍA USAR+ PERSONA+ ESTUDIANTE+ USAR CUÁL?, ALQUILER+ AMIGO COMPARTIR AMIGO.
+La mayoría usa el alquiler compartido con amigos.	MAYORÍA USAR+ PERSONA+ ESTUDIANTE+ USAR CUÁL?, ALQUILER+ AMIGO COMPARTIR AMIGO.
+Esta es la solución que prefieren los estudiantes.	ESE, ALQUILER PISO GUSTAR MÁS QUIÉN, PERSONA+ ESTUDIANTE+.
+El alquiler de piso le gusta más a los estudiantes.	ESE, ALQUILER PISO GUSTAR MÁS QUIÉN, PERSONA+ ESTUDIANTE+.
+Esta opción tiene como ventajas las siguientes:	ESE ALQUILER POSITIVO++ QUÉ?:
+El alquiler tiene cosas positivas:	ESE ALQUILER POSITIVO++ QUÉ?:
+si se alquila el piso entre varios amigos,	EJEMPLO, PRIMERO AMIGO+ ALQUILER DINERO COMPARTIR,
+Por ejemplo, primero, el dinero del alquiler se comparte con los amigos y	EJEMPLO, PRIMERO AMIGO+ ALQUILER DINERO COMPARTIR,
+el alojamiento sale más barato.	REBAJAR CASA DINERO REBAJAR.
+el precio baja.	REBAJAR DINERO REBAJAR.
+los estudiantes tienen libertad para entrar y salir de su casa cuando quieran.	SEGUNDO, PERSONA ESTUDIANTE+ LIBRE PODER ENTRAR, VENIR, COMO-QUIERA, LIBRE.
+Segundo, los estudiantes tienen libertad para poder entrar y venir cuando quieran.	SEGUNDO, PERSONA ESTUDIANTE+ LIBRE PODER ENTRAR, VENIR, COMO-QUIERA, LIBRE.
+los pisos de alquiler suelen estar cerca de las distintas facultades. Por lo tanto, se ahorran el dinero de tener que coger el autobús.	TERCERO, QUÉ?, ALQUILER+ CERCA UNIVERSIDAD MOTIVO TEMA DINERO+ AUTOBÚS ECONOMÍA AHORRAR++.
+Tercero, el alquiler cerca de la universidad para ahorrar el dinero del autobús.	TERCERO, QUÉ?, ALQUILER+ CERCA UNIVERSIDAD MOTIVO TEMA DINERO+ AUTOBÚS ECONOMÍA AHORRAR++.
+Por otra parte, hay que tener en cuenta que alquilar un piso también tiene algunos inconvenientes.	CUARTO, TAMBIÉN, ALQUILER PISO, TAMBIÉN COSAS NEGATIVO++ HAY, CUÁL?,
+En cuarto lugar, el alquiler también tiene cosas negativas.	CUARTO, TAMBIÉN, ALQUILER PISO, TAMBIÉN COSAS NEGATIVO++ HAY, CUÁL?,
+Por ejemplo, el estudiante tiene que hacerse la comida él sólo, lavarse y plancharse su ropa y limpiar el piso.	EJEMPLO, PERSONA ESTUDIANTE+ DEBER COMIDA A-MANO COCINAR+ SOLO COCINAR++, ROPA LAVADORA O FREGAR, ETCÉTERA.
+Por ejemplo, los estudiantes deben hacerse su propia comida, deben cocinarse solos, lavar la ropa o fregar, etcétera.	EJEMPLO, PERSONA ESTUDIANTE+ DEBER COMIDA A-MANO COCINAR+ SOLO COCINAR++, ROPA LAVADORA O FREGAR, ETCÉTERA.
+Para encontrar piso sólo hace falta los carteles de la universidad. 	TOCA ENCONTRAR PISO SÓLO HACER-FALTA UNIVERSIDAD CARTEL \cl{cartel en la pared} \cl{muchos carteles en las paredes} VER.
+porque, cuando llega septiembre, éstas se llenan de anuncios de pisos de distintos precios.	TOCA SEPTIEMBRE, PARED ESPECIAL UNIVERSIDAD ANUNCIO DINERO ETCÉTERA.
+Cuando llega septiembre en las paredes de la universidad hay anuncios con el precio, etcétera.	TOCA SEPTIEMBRE, PARED ESPECIAL UNIVERSIDAD ANUNCIO DINERO ETCÉTERA.
+Los precios de los alquileres varían dependiendo de la zona en la que esté el piso.	PRECIO ALQUILER DEPENDER QUÉ?, ZONA DEPENDER MOTIVO ALQUILER+ DINERO VARIAR++.
+El precio del alquiler depende de la zona porque el dinero de los alquileres varía.	PRECIO ALQUILER DEPENDER QUÉ?, ZONA DEPENDER MOTIVO ALQUILER+ DINERO VARIAR++.
+Una solución distinta al piso de alquiler es la residencia universitaria.	OTRO SOLUCIÓN CUÁL?, RESIDENCIA ESPECIAL UNIVERSIDAD.
+Otra solución es la residencia universitaria.	OTRO SOLUCIÓN CUÁL?, RESIDENCIA ESPECIAL UNIVERSIDAD.
+Esta es la solución que prefieren los padres de los estudiantes. 	ESO RESIDENCIA GUSTAR QUIÉN?, PADRE-MADRE PERSONA ESTUDIANTE+
+La residencia le gusta a los padres de los estudiantes	ESO RESIDENCIA GUSTAR QUIÉN?, PADRE-MADRE PERSONA ESTUDIANTE+
+Los padres se sienten más tranquilos y relajados con la residencia	PORQUE PADRE-MADRE TRANQUILO, RELAJADO TEMA RESIDENCIA
+porque se sienten tranquilos y relajados con la residencia	PORQUE PADRE-MADRE TRANQUILO, RELAJADO TEMA RESIDENCIA
+porque piensan que aquí los estudiantes están más controlados y, además, reciben educación y una buena y sana alimentación.	PORQUE PADRE-MADRE PENSAR DENTRO PERSONA ESTUDIANTE+ CONTROL, MÁS EDUCACIÓN ESPECIAL, ADEMÁS COMIDA CALIDAD BUENA.
+porque los padres piensan que dentro los estudiantes están controlados, tienen una educación especial y buena calidad en las comidas.	PORQUE PADRE-MADRE PENSAR DENTRO PERSONA ESTUDIANTE+ CONTROL, MÁS EDUCACIÓN ESPECIAL, ADEMÁS COMIDA CALIDAD .
+Éstas son algunas de las ventajas de las residencias universitarias, pero otras ventajas son:	ESO ANTES GUIÓN++ POSITIVO++, OTRO RESIDENCIA POSITIVO++ QUÉ?:
+Esto son cosas positivas, otras cosas positivas de las residencias son:	ESO ANTES GUIÓN++ POSITIVO++, OTRO RESIDENCIA POSITIVO++ QUÉ?:
+existen muchas residencias en Sevilla y de distinto tipo, por ejemplo, las hay femeninas, masculinas y mixtas.	DENTRO SEVILLA CIUDAD RESIDENCIA ETCÉTERA, EJEMPLO, HAY MUJER GRUPO O HOMBRE O MEZCLADO.
+Dentro de la ciudad de Sevilla hay distintas residencias, por ejemplo, femeninas, masculinas y mixtas.	DENTRO SEVILLA CIUDAD RESIDENCIA ETCÉTERA, EJEMPLO, HAY MUJER GRUPO O HOMBRE O MEZCLADO.
+hay residencias por todas partes 	SEGUNDO, RESIDENCIA \cl{muchas residencias por todas partes} CIUDAD.
+Segundo, hay residencias en todas partes de la ciudad. 	SEGUNDO, RESIDENCIA \cl{muchas residencias por todas partes} CIUDAD.
+y los estudiantes pueden elegir aquella que esté más cerca de su facultad.	ADEMÁS ESTUDIANTE+ PODER IR CERCA UNIVERSIDAD IR.
+Además, los estudiantes pueden ir a la que está cerca de la universidad.	ADEMÁS ESTUDIANTE+ PODER IR CERCA UNIVERSIDAD IR.
+en las residencias se hacen muchos amigos y se conoce a mucha gente.	DENTRO RESIDENCIA AMIGO ETCÉTERA PODER, CONOCERSE+++.
+Dentro de la residencia se pueden conocer amigos.	DENTRO RESIDENCIA AMIGO ETCÉTERA PODER, CONOCERSE+++.
+algunas residencias dan clases de apoyo para que el estudiante vaya bien en sus estudios.	ALGUNOS RESIDENCIA HAY DENTRO CLASE+ APOYO PARA PERSONA ESTUDIANTE+ MEJOR+, ESTUDIO MEJOR++.
+Algunas residencias tienen clases de apoyo para que los estudiantes vayan mejor en sus estudios.	ALGUNOS RESIDENCIA HAY DENTRO CLASE+ APOYO PARA PERSONA ESTUDIANTE+ MEJOR+, ESTUDIO MEJOR++.
+Pero la residencia universitaria también tiene inconvenientes.	DENTRO RESIDENCIA COSAS NEGATIVO+,
+Dentro de la residencia hay cosas negativas,	DENTRO RESIDENCIA COSAS NEGATIVO+,
+Por ejemplo, los estudiantes se siente vigilados porque la hora de cierre de la residencia suele ser muy temprana y cada vez que se marchan de fin de semana deben rellenar un parte de salida.	EJEMPLO, PERSONA ESTUDIANTE SENTIR CONTROL PORQUE HORA CERRAR PUERTA TEMPRANO PROBLEMA SALIR NO-PODER, ADEMÁS FIN-DE-SEMANA IR CASA, DEBER JUSTIFICANTE FIRMAR PRESENTAR.
+por ejemplo, los estudiantes se sienten controlados porque la hora de cierre de la puerta es temprano y tiene el problema de no poder salir. Además, el fin de semana se van a casa y deben presentar un justificante firmado.	EJEMPLO, PERSONA ESTUDIANTE SENTIR CONTROL PORQUE HORA CERRAR PUERTA TEMPRANO PROBLEMA SALIR NO-PODER, ADEMÁS FIN-DE-SEMANA IR CASA, DEBER JUSTIFICANTE FIRMAR PRESENTAR.
+La residencia universitaria es más cara que el piso de alquiler.	APARTE RESIDENCIA UNIVERSIDAD MÁS-CARO DINERO MÁS-CARO, PISO MENOS.
+Por otra parte, la residencia universitaria es más cara que un piso.	APARTE RESIDENCIA UNIVERSIDAD MÁS-CARO DINERO MÁS-CARO, PISO MENOS.
+La guerra es tan vieja como la humanidad.	GUERRA EDAD IGUAL HUMANIDAD IGUAL+.
+La guerra tiene la misma edad que la humanidad.  	GUERRA EDAD IGUAL HUMANIDAD IGUAL+.
+Entre los hallazgos más antiguos están las armas de guerra: hachas, lanzas, flechas, espadas y puñales en épocas prehistóricas.	COSAS ENCONTRAR, COSAS ANTIGUO QUÉ?, GUERRA ESPECIAL GUERRA COSAS, LANZA, PALO, FLECHA, ESPADA, PUÑAL, ENCONTRAR DÓNDE?, ÉPOCA ANTES HISTORIA, ANTES.
+Se han encontrado antigüedades especiales para la guerra, lanzas, palos, flechas, espadas, puñales de la prehistória.	COSAS ENCONTRAR, COSAS ANTIGUO QUÉ?, GUERRA ESPECIAL GUERRA COSAS, LANZA, PALO, FLECHA, ESPADA, PUÑAL, ENCONTRAR DÓNDE?, ÉPOCA ANTES HISTORIA, ANTES.
+Hay diferencias en la agresividad de los pueblos,  	TEMA GRUPO++ AGRESIVIDAD++ ESO DIFERENTE++.
+La agresividad es diferente en los grupos.	TEMA GRUPO++ AGRESIVIDAD++ ESO DIFERENTE++.
+por ejemplo, no existen armas de guerra y sí sólo de caza entre los esquimales, ciertas tribus de Colombia, Ecuador y África.  	EJEMPLO, GRUPO ALGUNOS HAY GUERRA NO-HAY, MATAR ANIMALES SÍ, GRUPO QUIÉN?, EJEMPLO VIVIR PERSONA+ POLO NORTE ESQUIMAL, GRUPO COLOMBIA, ECUADOR, ÁFRICA.
+Por ejemplo, algunos grupos no tienen guerra pero sí matan animales. Esos grupos son, por ejemplo, los esquimales del Polo Norte, grupos de Colombia, de Ecuador y de África.  	EJEMPLO, GRUPO ALGUNOS HAY GUERRA NO-HAY, MATAR ANIMALES SÍ, GRUPO QUIÉN?, EJEMPLO VIVIR PERSONA+ POLO NORTE ESQUIMAL, GRUPO COLOMBIA, ECUADOR, ÁFRICA.
+En sus lejanos espacios vitales, poco poblados y de difícil acceso, no había enemigos.  	ZONA SU LEJOS, PERSONA+ DENTRO VIVIR POCO, PODER IR COSTAR, PERSONA ENEMIGO NO-HAY.
+En sus zonas lejanas vivían pocas personas, costaba poder llegar, no tenían enemigos.  	ZONA SU LEJOS, PERSONA+ DENTRO VIVIR POCO, PODER IR COSTAR, PERSONA ENEMIGO NO-HAY.
+Existen en cambio un sinfín de ejemplos de pueblos agresivos, sanguinarios y belicosos:	ENTONCES, PERO HAY EJEMPLO GRUPO AGRESIVIDAD+++, GANAS SANGRE, AMOR GUERRA,
+Pero hay ejemplos de pueblos muy agresivos, sanguinarios y amantes de la guerra. 	ENTONCES, PERO HAY EJEMPLO GRUPO AGRESIVIDAD+++, GANAS SANGRE, AMOR GUERRA,
+destacaron, entre otros, por su sed de sangre y afán destructor, los zulúes de África del Sur.	PRIMER IMPORTANTE QUIÉN? MOTIVO GANAS MATANZA GANAS QUIÉN?, GRUPO NOMBRE \dl{ZULÚES}. DÓNDE VIVIR?, ÁFRICA SUR.
+El más importante por sus ganas de matanza era el grupo llamado zulúes, que vivían en África del Sur.  	PRIMER IMPORTANTE QUIÉN? MOTIVO GANAS MATANZA GANAS QUIÉN?, GRUPO NOMBRE \dl{ZULÚES}. DÓNDE VIVIR?, ÁFRICA SUR.
+Desde tiempos muy remotos fueron causa de guerra el robo de mujeres y tierras, la sed de botín, las ideas religiosas,	TOCA HACE-MUCHO-TIEMPO++ OBJETIVO GUERRA QUÉ?, MUJER ROBAR, TIERRA ROBAR+, TAMBIÉN GANAS BOTÍN, IDEA RELIGIÓN,
+Hace mucho tiempo el objetivo de la guerra era el robo de mujeres y tierras, también las ganas de botín, las ideas religiosas,	TOCA HACE-MUCHO-TIEMPO++ OBJETIVO GUERRA QUÉ?, MUJER ROBAR, TIERRA ROBAR+, TAMBIÉN GANAS BOTÍN, IDEA RELIGIÓN,
+que subyacen a costumbres como los sacrificios humanos, el canibalismo o la caza de cabezas y no en último lugar el ansia de gloria y la voluntad de dominio.	DENTRO RELIGIÓN HAY COSTUMBRE EJEMPLO PERSONA MUERTO+++ MATANZA O EJEMPLO PERSONA CUERPO COMER \cl{comerse el cuerpo O PERSONA CABEZA CORTAR-CABEZA, TAMBIÉN, ÚLTIMO NO, QUÉ?, GANAS ÉXITO, MÁS GANAS DOMINAR CONTROL.
+dentro de la religión había la costumbre de, por ejemplo, matar a las personas o, por ejemplo, comer el cuerpo de las personas o cortarles la cabeza. También, no en último lugar, estaban las ganas de éxito, las ganas de dominar y controlar.	DENTRO RELIGIÓN HAY COSTUMBRE EJEMPLO PERSONA MUERTO+++ MATANZA O EJEMPLO PERSONA CUERPO COMER \cl{comerse el cuerpo O PERSONA CABEZA CORTAR-CABEZA, TAMBIÉN, ÚLTIMO NO, QUÉ?, GANAS ÉXITO, MÁS GANAS DOMINAR CONTROL.
+Los imperios de la historia se formaron basándose en guerras.  	GRUPO GANAS DOMINAR, NOMBRE \dl{IMPERIOS}, EJEMPLO GRECIA ROMA, BASE SURGIR MOTIVO GUERRA.
+El grupo con ganas de dominar recibía el nombre de imperios, por ejemplo, Grecia, Roma, surgieron basándose en las guerras.	GRUPO GANAS DOMINAR, NOMBRE \dl{IMPERIOS}, EJEMPLO GRECIA ROMA, BASE SURGIR MOTIVO GUERRA.
+En casi todas las tribus y pueblos gozó el guerrero de especial prestigio.  	CASI MAYORÍA GRUPO, PUEBLO, IMPORTANTE QUIÉN?, HOMBRE PERSONA RESPONSABLE GUERRA,
+Casi en la mayoría de los grupos, pueblos, el importante era el guerrero.  	CASI MAYORÍA GRUPO, PUEBLO, IMPORTANTE QUIÉN?, HOMBRE PERSONA RESPONSABLE GUERRA,
+Su posición en la sociedad era elevada, se vestía con espléndido, magnífico y llamativo atuendo para la lucha 	DENTRO SOCIEDAD NIVEL ALTO, ROPA MARAVILLOSO, RESTO LLAMAR-ATENCIÓN, ESPECIAL PARA LUCHAR.
+Dentro de la sociedad tenía un nivel alto, una ropa maravillosa que llamaba la atención de los demás y era especial para la lucha.	DENTRO SOCIEDAD NIVEL ALTO, ROPA MARAVILLOSO, RESTO LLAMAR-ATENCIÓN, ESPECIAL PARA LUCHAR.
+a la que solía preceder un ritual destinado a levantar el ánimo, la danza guerrera.  	ANTES LUCHAR ANTES HAY SABER BAILE ESPECIAL PARA GUERRA NOMBRE PARA ANIMAR+.
+Antes de la lucha hay un baile especial para la guerra llamado para animar.	ANTES LUCHAR ANTES HAY SABER BAILE ESPECIAL PARA GUERRA NOMBRE PARA ANIMAR+.
+Hubo siempre gran interés en una presentación aterradora, amenazante y hostil, para ello se usaban pinturas de guerra y máscaras.	SIEMPRE++ PRESENTACIÓN EJEMPLO MIEDO, PODEROSO, MÁS PARA RESTO ASUSTAR, ENTONCES MUCHAS-VECES USAR PINTURAS COLOR ETCÉTERA, TAMBIÉN MÁSCARA.
+Siempre, siempre, siempre se presentaban dando miedo, con poder, para asustar al resto, entonces, muchas veces usaban pinturas de colores variados y máscara.	SIEMPRE++ PRESENTACIÓN EJEMPLO MIEDO, PODEROSO, MÁS PARA RESTO ASUSTAR, ENTONCES MUCHAS-VECES USAR PINTURAS COLOR ETCÉTERA, TAMBIÉN MÁSCARA.
+En sus comienzos la guerra consistía en una lucha "mano a mano" entre tribus contrarias tras el encuentro inicial de los "campeones".  	AL-PRINCIPIO TEMA GUERRA ENFRENTARSE GRUPO ENEMIGO, PRIMERO PERSONA+ CAMPEÓN+ ENCONTRARSE, DESPUÉS GRUPO ENFRENTARSE.
+Al principio, en las guerras, se enfrentaban los grupos enemigos, primero se encontraban los campeones y, después, se enfrentaban los grupos.  	AL-PRINCIPIO TEMA GUERRA ENFRENTARSE GRUPO ENEMIGO, PRIMERO PERSONA+ CAMPEÓN+ ENCONTRARSE, DESPUÉS GRUPO ENFRENTARSE.
+A la ruidosa, brutal y primitiva arremetida siguió pronto la "táctica",	DESPUÉS \cl{los dos grupos corriendo para luchar} CAMBIAR OTRO MÉTODO.
+Después, los dos grupos corriendo para luchar cambió a otro método. 	DESPUÉS \cl{los dos grupos corriendo para luchar} CAMBIAR OTRO MÉTODO.
+En tercer lugar, se escondían, un grupo se abalanzaba sobre otro, se retiraba y, después, volvía a atacar.	TERCERO, ESCONDERSE \cl{un grupo ataca a otro}. TAMBIÉN MÉTODO OTRO \cl{un grupo ataca a otro} \cl{un grupo se acerca a otro, se retira y, otra vez, vuelve a atacar}.
+y, luego, vino el orden de batalla con sofisticada distribución de armas ligeras y pesadas y empleo de caballería, carros de combate y elefantes.	TAMBIÉN ORDEN, \cl{personas (u objetos) en filas ordenadas de delante hacia atrás} ESPECIAL ARMA COSAS ETCÉTERA, EJEMPLO, PRIMERO LIGERO, AHI PESADO, \cl{personas (u objetos) en filas}. USAR CABALLO+, CARRO, TAMBIÉN ELEFANTE.
+También se ordenaban por filas las armas especiales, etcétera, por ejemplo, primero las ligeras, después las pesadas, las personas o los objetos se situaban en filas. Usaban caballos, carros y elefantes.  	TAMBIÉN ORDEN, \cl{personas (u objetos) en filas ordenadas de delante hacia atrás} ESPECIAL ARMA COSAS ETCÉTERA, EJEMPLO, PRIMERO LIGERO, AHI PESADO, \cl{personas (u objetos) en filas}. USAR CABALLO+, CARRO, TAMBIÉN ELEFANTE.
+En ningún campo fue tan fecundo el ingenio humano como en el de la invención de métodos estratégicos, de ataque y defensivos cada vez más eficaces.	TEMA INTELIGENCIA PERSONA+ HUMANO++ PARA CREAR MÉTODO TEMA ENFRENTARSE O DEFENDER OTRO TEMA IGUAL INTELIGENCIA VALE NO-HAY.
+La inteligencia de las personas humanas para crear métodos de ataque o defensa no hay otro tema donde haya una inteligencia igual de válida.	TEMA INTELIGENCIA PERSONA+ HUMANO++ PARA CREAR MÉTODO TEMA ENFRENTARSE O DEFENDER OTRO TEMA IGUAL INTELIGENCIA VALE NO-HAY.
+El objetivo ideal de la estrategia es la destrucción del enemigo.	OBJETIVO PERFECTO MÉTODO QUÉ?, ENEMIGO DESAPARECER, OBJETIVO ESE.
+El objetivo perfecto del método era hacer desaparecer al enemigo.  	OBJETIVO PERFECTO MÉTODO QUÉ?, ENEMIGO DESAPARECER, OBJETIVO ESE.
+La brutalidad puesta a ese servicio sólo conoce suavizamientos graduales según la época y el lugar.	MISMO BRUTALIDAD++ ESO, DEPENDER SUAVE O BRUTALIDAD DEPENDER ÉPOCA O ZONA GUERRA, DEPENDER.
+La brutalidad o suavidad de eso dependía de la época o de la zona de la guerra.  	MISMO BRUTALIDAD++ \ESO, DEPENDER SUAVE O BRUTALIDAD DEPENDER ÉPOCA O ZONA GUERRA, DEPENDER.
+Cuando acaso se hacían prisioneros, su destino posterior era la esclavitud.	TOCA PERSONA PRESO, DESPUÉS, TRASLADAR CÁRCEL.
+Cuando se hacían prisioneros se trasladaban a las cárceles.	TOCA PERSONA PRESO, DESPUÉS, TRASLADAR CÁRCEL.
+Las poblaciones sometidas conocieron siempre la "ley de la espada".  	GRUPO PERDER SOMETERSE CONOCER QUÉ?, LEY ESPADA CONOCER, SOMETERSE.
+Los grupos que perdían se sometían y conocían la ley de la espada.  	GRUPO PERDER SOMETERSE CONOCER QUÉ?, LEY ESPADA CONOCER, SOMETERSE.
+La historia de las guerras está llena de crueldad, y sangre en todas las partes del mundo.  	HISTORIA TEMA GUERRA DENTRO SANGRE, BRUTALIDAD, MUNDO \cl{se señalan las distintas partes en el mundo} TODO.
+En la historia del tema de las guerras hay sangre y brutalidad en todas partes del mundo.	HISTORIA TEMA GUERRA DENTRO SANGRE, BRUTALIDAD, MUNDO \cl{se señalan las distintas partes en el mundo} TODO.
+Y poco ha cambiado, sigue habiendo guerras, hay matanzas de pueblos y nos llegan noticias de gran derramamiento de sangre.	AHORA-MISMO, DESDE-ANTES-HASTA-AHORA CAMBIAR POCO, CONTINUAR GUERRA, GRUPO++ ENFRENTARSE, RECIBIR-INFORMACIÓN NOTICIAS, RECIBIR-INFORMACIÓN, SANGRE, MATANZA, HORRIBLE, CONTINUAR++.
+Desde antiguo hasta la actualidad ha cambiado poco, continúan las guerras y el enfrentamiento de los grupos, se reciben noticias de que continúan la sangre y las matanzas horribles.	AHORA-MISMO, DESDE-ANTES-HASTA-AHORA CAMBIAR POCO, CONTINUAR GUERRA, GRUPO++ ENFRENTARSE, RECIBIR-INFORMACIÓN NOTICIAS, RECIBIR-INFORMACIÓN, SANGRE, MATANZA, HORRIBLE, CONTINUAR++.
+En lo que alcanza la historia mundial, hubo pueblos sometidos por otros pueblos belicosos y dispuestos a seguir en la agresión a caudillos ambiciosos, dominantes y brutales.  	HISTORIA MUNDO HAY GRUPO SOMETERSE MOTIVO HAY ALGUNOS PODEROSO APLASTAR GRUPO SOMETERSE. ESO MISMO OBJETIVO QUÉ?, PERSONA FIEL. ESA PERSONA CÓMO?, GANAS GUERRA, SENTIR BRUTALIDAD ESA FIEL.
+En la historia del mundo hay grupos que se someten porque hay algunos grupos poderosos que aplastan al grupo sometido, que tiene como objetivo ser fiel a esa persona. Esa persona es belicosa y brutal y le son fieles.  	HISTORIA MUNDO HAY GRUPO SOMETERSE MOTIVO HAY ALGUNOS PODEROSO APLASTAR GRUPO SOMETERSE. ESA MISMO OBJETIVO QUÉ?, PERSONA FIEL. ESA PERSONA CÓMO?, GANAS GUERRA, SENTIR BRUTALIDAD ESA FIEL.
+El objetivo final era la conquista del mundo mediante la creación de imperios,	OBJETIVO FINAL QUÉ?, MUNDO DOMINAR++, CREAR QUÉ?, IMPERIO.
+El objetivo final es dominar el mundo y crear imperios. 	OBJETIVO FINAL QUÉ?, MUNDO DOMINAR++, CREAR QUÉ?, IMPERIO.
+es lo que se conoce como imperialismo.  	ESO NOMBRE CÓMO?, IMPERIALISMO.
+Eso se llama imperialismo.  	ESO NOMBRE CÓMO?, IMPERIALISMO.
+Éste se define como un afán de dominio que procura extender la jurisdicción de un país a costa de países vecinos e incluso lejanos.  	ESO QUÉ? CONCEPTO SIGNIFICAR QUÉ?, GANAS DOMINAR++, OBJETIVO INTENTAR MI PAÍS MI INTENTAR DOMINAR EXTENDERSE PAÍS++ EXTENDERSE, TAMBIÉN LEJOS PAÍS+ TAMBIÉN LEJOS.
+Ese concepto significa ganas de dominar con el objetivo de intentar extender mi país también a países lejanos.  	ESO QUÉ? CONCEPTO SIGNIFICAR QUÉ?, GANAS DOMINAR++, OBJETIVO INTENTAR MI PAÍS MI INTENTAR DOMINAR EXTENDERSE PAÍS++ EXTENDERSE, TAMBIÉN LEJOS PAÍS+ TAMBIÉN LEJOS.
+La historia nos demuestra que la tendencia al imperialismo existe en todo tiempo y que en cuanto surge un tirano puede cristalizar enseguida.  	HISTORIA DEMOSTRAR+ NORMAL ANTES INTENTAR OBJETIVO DOMINAR AHORA NO, CONTINUAR, DESDE-ANTES-HASTA-AHORA CONTINUAR+. TOCA UN SURGIR PERSONA ORGULLOSO ÉL PODER CONTINUAR++.
+La historia demuestra que el intento de dominar no es algo de ahora sino que continúa desde la antigüedad hasta ahora. Cuando surge una persona orgullosa puede continuar.   	HISTORIA DEMOSTRAR+ NORMAL ANTES INTENTAR OBJETIVO DOMINAR AHORA NO, CONTINUAR, DESDE-ANTES-HASTA-AHORA CONTINUAR+. TOCA UN SURGIR PERSONA ORGULLOSO ÉL PODER CONTINUAR++.
+Te voy a contar un día en la vida de mi perro.	YO CONTAR+ VIDA MI PERRO, UN DÍA COMPLETO YO CONTAR.
+Yo voy a contar la vida de mi perro, un día completo.	YO CONTAR+ VIDA MI PERRO, UN DÍA COMPLETO YO CONTAR.
+Por la mañana, mi perro se despierta a las 8.30.	POR-LA-MAÑANA LEVANTAR, DESPERTARSE, HORA OCHO Y-MEDIA DESPERTARSE.
+Por la mañana se levanta, se despierta a las ocho y media.	POR-LA-MAÑANA LEVANTAR, DESPERTARSE, HORA OCHO Y-MEDIA DESPERTARSE.
+Él nunca se levanta sólo,	 SÓLO LEVANTARSE NUNCA
+Él nunca se levanta solo	 SÓLO LEVANTARSE NUNCA
+porque es muy dormilón.	PORQUE  DORMIR ENCANTAR.
+porque le encanta dormir.	PORQUE  DORMIR ENCANTAR.
+Yo lo despierto para sacarlo a la calle.	YO LLAMAR PARA DESPERTAR CALLE \cl{llevar al perro de la cadena}.
+Yo lo llamo para despertarlo y sacarlo a la calle.	YO LLAMAR PARA DESPERTAR CALLE \cl{llevar al perro de la cadena}.
+Si hace mucho frío, le pongo su abrigo.	SI FRÍO, ABRIGO(cond) \cl{perro andando}.
+Si hace frío le pongo un abrigo.	SI FRÍO, ABRIGO(cond) \cl{perro andando}.
+En la calle se encuentra con otros perros.	TOCA CALLE NORMAL ENCONTRARSE+ PERRO,
+En la calle normalmente se encuentra con perros,	TOCA CALLE NORMAL ENCONTRARSE+ PERRO,
+Muchos perros son amigos suyos.	ALGUNOS AMIGO SU.
+algunos son amigos suyos.	ALGUNOS AMIGO SU.
+Cuando los ve, tira de la cadena para que lo acerque a sus amigos.	TOCA VER \cl{perro que tira de la cadena} PARA CERCA \cl{perro andando}.
+Cuando los ve tira de la cadena para acercarse.	TOCA VER \cl{perro que tira de la cadena} PARA CERCA \cl{perro andando}.
+Y, luego, se pone a mover el rabo y a jugar con ellos.	DESPUÉS, NORMAL RABO \cl{mover el rabo} PARA JUGAR++.
+Después, normalmente mueve el rabo para jugar.	DESPUÉS, NORMAL RABO \cl{mover el rabo} PARA JUGAR++.
+Después, volvemos a la casa y desayunamos.	DESPUÉS, TOCA IR NOSOTROS 2 CASA, TOCA DESAYUNO.
+Después, los dos vamos a casa a desayunar.	DESPUÉS, TOCA IR NOSOTROS 2 CASA, TOCA DESAYUNO.
+Mi perro no desayuna pero, a veces, le damos un trozo de tostada.	MI PERRO DESAYUNO NADA. MUCHAS-VECES TOSTADA ALGO \cl{darle tostada al perro}.
+Mi perro no desayuna nada. Muchas veces le doy un trozo de tostada.	MI PERRO DESAYUNO NADA. MUCHAS-VECES TOSTADA ALGO \cl{darle tostada al perro}.
+Luego, todos salimos de casa:	DESPUÉS, TODOS IR CASA,
+Después, todos salimos de casa,	DESPUÉS, TODOS IR CASA,
+papá y mamá se van al trabajo y	PADRE-MADRE IR TRABAJAR
+mi padre y mi madre van a trabajar y	PADRE-MADRE IR TRABAJAR
+mi hermano y yo nos vamos al colegio.	HERMANO-HOMBRE YO IR COLEGIO.
+mi hermano y yo vamos al colegio.	HERMANO-HOMBRE YO IR COLEGIO.
+Entonces, mi perro se queda solo.	DESPUÉS, PERRO SOLO CASA DENTRO.
+Después, el perro se queda solo en casa.	DESPUÉS, PERRO SOLO CASA DENTRO.
+Cuando mi perro se queda solo, no se aburre.	TOCA  SOLO ABURRIR (2m)NO.
+Cuando está solo no se aburre.	TOCA  SOLO ABURRIR (2m)NO.
+Duerme un poco pero también juega mucho.	 DORMIR MUCHAS-VECES, JUGAR TAMBIÉN.
+Duerme muchas veces, también juega.	 DORMIR MUCHAS-VECES, JUGAR TAMBIÉN.
+Mi perro tiene una caja con juguetes.	 HAY CAJA DENTRO JUGUETE ETCÉTERA,
+Tiene una caja con juguetes variados,	 HAY CAJA DENTRO JUGUETE ETCÉTERA,
+Tiene tres pelotas de colores y varios muñecos de goma.	HAY PELOTA COLOR+ 3, MÁS MUÑECO ESPECIAL GOMA.
+tiene tres pelotas de colores y muñecos de goma.	HAY PELOTA COLOR+ 3, MÁS MUÑECO ESPECIAL GOMA.
+Cuando está solo, mi perro abre la caja con su hocico, saca todos sus juguetes y se pone a jugar.	TOCA  SOLO, CAJA HOCICO \cl{levanta la tapa de la caja con su hocico} PARA JUGUETE FUERA++ JUGAR++.
+Cuando se queda solo, abre la caja con su hocico para sacar los juguetes.	TOCA  SOLO, CAJA HOCICO \cl{levanta la tapa de la caja con su hocico} PARA JUGUETE FUERA++ JUGAR++.
+También le gusta morder los muñecos de goma.	TAMBIÉN MUCHAS-VECES MUÑECO ESPECIAL GOMA MORDER,
+También muchas veces muerde los muñecos de goma,	TAMBIÉN MUCHAS-VECES MUÑECO ESPECIAL GOMA MORDER,
+Se tira al suelo y se pasa las horas mordiéndolos.	SUELO \cl{tumbado en el suelo} HORA++ MORDER.
+se tumba en el suelo y se pasa horas mordiendo.	SUELO \cl{tumbado en el suelo} HORA++ MORDER.
+Él muerde sus muñecos con cuidado, nunca los rompe.	MORDER ROMPER MUÑECO NO,  CUIDAR.
+Él no muerde con fuerza los muñecos, no los rompe, él los cuida.	MORDER ROMPER MUÑECO NO,  CUIDAR.
+Así, pasa el tiempo hasta que volvemos a casa.	HORA++ HASTA TOCA TODOS IR CASA.
+Se pasa las horas hasta que todos volvemos a casa.	HORA++ HASTA TOCA TODOS IR CASA.
+A las 14.30 volvemos a casa.	HORA 2 Y-MEDIA IR CASA.
+A las dos y media vamos a casa.	HORA 2 Y-MEDIA IR CASA.
+Antes de abrir la puerta mi perro ya sabe que hemos vuelto porque nos oye cuando llegamos al portal.	ANTES PUERTA ABRIR, ANTES SABER PORQUE TOCA OÍR PORTAL ABAJO OÍR.
+Antes de abrir la puerta lo sabe porque nos oye en el portal de abajo.	ANTES PUERTA ABRIR, ANTES SABER PORQUE TOCA OÍR PORTAL ABAJO OÍR.
+Cuando abrimos la puerta nos encontramos a mi perro muy contento de vernos.	TOCA ABRIR, VER FELIZ, VER FELIZ.
+Cuando abrimos lo vemos muy feliz.	TOCA ABRIR, VER FELIZ, VER FELIZ.
+Enseguida, nos lavamos las manos y ponemos la mesa para almorzar.	DESPUÉS, DIRECTO IR LAVARSE-LAS-MANOS, MÁS MESA PREPARAR PLATO++ ETCÉTERA.
+Después, vamos directo a lavarnos las manos y a poner la mesa.	DESPUÉS, DIRECTO IR LAVARSE-LAS-MANOS, MÁS MESA PREPARAR PLATO++ ETCÉTERA.
+Durante el almuerzo mi perro se tumba debajo de la mesa.	MESA COMIDA TOCA \cl{el perro se pone debajo de la mesa}.
+En la comida, el perro se pone debajo de la mesa.	MESA COMIDA TOCA \cl{el perro se pone debajo de la mesa}.
+Mamá no quiere que le demos de comer.	MAMÁ QUERER NO COMIDA DAR QUERER NO.
+Mamá no quiere que le demos comida.	MAMÁ QUERER NO COMIDA DAR QUERER NO.
+Mi perro espera debajo de la mesa por si se cae algo.	 ESPERAR A-VER SUERTE HAY DAR-ME COMIDA ALGO+.
+Él espera a ver si hay suerte y le damos algo de comida.	 ESPERAR A-VER SUERTE HAY DAR-ME COMIDA ALGO+.
+Tras el almuerzo, le damos su comida.	FIN COMIDA, DESPUÉS, TURNO COMER.
+Tras la comida, después, le toca comer	FIN COMIDA, DESPUÉS, TURNO COMER.
+Mi perro come pienso y croquetas para perro.	SU ESPECIAL COMIDA QUÉ?, ESPECIAL COMIDA ANIMALES PERRO+, MÁS CROQUETA ESPECIAL PERRO.
+su comida especial para perros y croquetas para perros.	SU ESPECIAL COMIDA QUÉ?, ESPECIAL COMIDA ANIMALES PERRO+, MÁS CROQUETA ESPECIAL PERRO.
+Después, saco a mi perro otra vez a la calle.	DESPUÉS IR CALLE OTRA-VEZ.
+Después, vamos a la calle otra vez.	DESPUÉS IR CALLE OTRA-VEZ.
+Esta vez se lleva en la boca su pelota favorita.	 IR QUÉ-HACER?, PELOTA GUSTAR SU COGER, IR.
+Él coge la pelota que le gusta.	 IR QUÉ-HACER?, PELOTA GUSTAR SU COGER, IR.
+En la calle jugamos durante un buen rato.	NOSOTROS JUGAR+,
+Los dos jugamos,	NOSOTROS 2 JUGAR+,
+Primero suelto a mi perro y después le tiro la pelota muy lejos.	PRIMERO YO \cl{desatar al perro}, PELOTA TIRAR LEJOS,
+primero yo desato al perro, le tiro la pelota lejos,	PRIMERO YO \cl{desatar al perro}, PELOTA TIRAR LEJOS,
+El perro otra vez me la da, la tiro lejos.	PERRO OTRA-VEZ DAR A-MI, TIRAR LEJOS.
+A mi perro le gusta mucho este juego.	 JUGAR ENCANTAR,
+Le encanta jugar,	 JUGAR ENCANTAR,
+A las 17 volvemos a casa.	HORA 17 OTRA-VEZ NOSOTROS CASA.
+A las cinco otra vez nos marchamos a casa.	HORA 5 OTRA-VEZ NOSOTROS IR CASA.
+Yo me pongo a hacer los deberes.	YO COLEGIO PREPARAR DEBERES.
+Yo preparo los deberes del colegio.	YO COLEGIO PREPARAR DEBERES.
+Mi perro se vuelve a dormir porque está muy cansado de correr.	 OTRA-VEZ DORMIR MOTIVO CANSADO ANTES CORRER,
+Otra vez duerme porque está cansado de correr,	 OTRA-VEZ DORMIR MOTIVO CANSADO ANTES CORRER,
+Él duerme hasta la hora de merendar.	AHORA DORMIR HASTA HORA COMER MEDIA TARDE .
+ahora duerme hasta la hora de merendar.	AHORA DORMIR HASTA HORA COMER MEDIA TARDE .
+Después de merendar, yo me voy a la calle a jugar con mi hermano y nuestros amigos.	DESPUÉS COMER TARDE IR JUGAR AMIGO+ ETCÉTERA MÁS HERMANO-HOMBRE, YO, NOSOTROS 2 IR.
+Después de merendar voy a jugar con los amigos y mi hermano.	DESPUÉS COMER TARDE IR JUGAR AMIGO+ ETCÉTERA MÁS HERMANO-HOMBRE, YO, NOSOTROS 2 IR.
+Mi perro se queda ahora en casa jugando con sus pelotas.	PERRO QUÉ-HACER?, CASA JUGAR PELOTA JUGAR++.
+El perro se queda en casa jugando con la pelota.	PERRO QUÉ-HACER?, CASA JUGAR PELOTA JUGAR++.
+Tras la cena, le toca a papá sacarlo a la calle.	COMER NOCHE FIN, PAPÁ RESPONSABLE CALLE \cl{llevar al perro de la cadena}.
+Tras la cena, papá es responsable de sacar al perro a la calle.	COMER NOCHE FIN, PAPÁ RESPONSABLE CALLE \cl{llevar al perro de la cadena}.
+Ya está muy oscuro	CIELO OSCURO
+Está oscuro	CIELO OSCURO
+y mamá no quiere que los niños salgamos de casa.	MOTIVO MAMÁ QUERER NO NIÑOS IR CALLE QUERER NO MOTIVO OSCURO.
+y mamá no quiere que los niños vayamos a la calle porque está oscuro.	MOTIVO MAMÁ QUERER NO NIÑOS IR CALLE QUERER NO MOTIVO OSCURO.
+Luego, cuando sube de la calle, mi perro se acuesta en su cama.	DESPUÉS TOCA CASA,  CAMA DORMIR.
+Después, en casa, se duerme en la cama.	DESPUÉS TOCA CASA,  CAMA DORMIR.
+De madrugada, se levanta a beber agua, pero la mayor parte de la noche se la pasa durmiendo.	MUCHAS-VECES MADRUGADA IR AGUA BEBER, NORMAL DÍA POR-LA-NOCHE COMPLETO DORMIR.
+Muchas veces, de madrugada, va a beber agua, normalmente duerme toda la noche.	MUCHAS-VECES MADRUGADA IR AGUA BEBER, NORMAL DÍA POR-LA-NOCHE COMPLETO DORMIR.
+Actualmente la población mundial crece a un ritmo lo suficientemente acelerado, rápido y vertiginoso como para temer consecuencias catastróficas.	AHORA-MISMO PERSONA+ MUNDO CRECER VELOZ, RÁPIDO, BURRADA, PODER FUTURO PROBLEMA+.
+En la actualidad la población del mundo crece velozmente, rápidamente, una burrada, puede haber problemas en el futuro.	AHORA-MISMO PERSONA+ MUNDO CRECER VELOZ, RÁPIDO, BURRADA, PODER FUTURO PROBLEMA+.
+Las Naciones Unidas predicen que en el año 2050 el planeta acogerá a 8.900 millones de personas, aunque la cifra podría llegar a los 10.700 millones.	AHORA-MISMO \dl{ONU} DECIR 2050 MUNDO TOTAL PERSONA+ 8900000000 PERSONA+, PERO CAPAZ MÁXIMO 10700000000 PERSONA+ VIVIR MUNDO.
+En la actualidad la ONU dice que en el 2.050, en el mundo habrá un total de 8.900 millones de personas, pero que se puede llegar a un máximo de 10.700 millones de habitantes del mundo.	AHORA-MISMO \dl{ONU} DECIR 2050 MUNDO TOTAL PERSONA+ 8900000000 PERSONA+, PERO CAPAZ MÁXIMO 10700000000 PERSONA+ VIVIR MUNDO.
+A pesar de todo, hay que decir que, en general, las mujeres están teniendo menos hijos que nunca	PODER DECIR EN-GENERAL MUJER+ HIJO MUY-POCO, ANTES MÁS.
+En general, se puede decir que las mujeres están teniendo muy pocos hijos, antes tenían más.	PODER DECIR EN-GENERAL MUJER+ HIJO MUY-POCO, ANTES MÁS.
+y que el crecimiento de la población está siendo más lento, pausado y menor de lo que se esperaba.	PERSONA CRECER LENTO, TRANQUILO, DESACELERADO.
+La población crece lentamente, tranquilamente, de manera desacelerada.	PERSONA CRECER LENTO, TRANQUILO, DESACELERADO.
+Esto puede deberse a que las políticas de control de nacimientos han reducido la natalidad más de lo que se esperaba	ESO MOTIVO POLÍTICA CONTROL NACIMIENTO++ INTENTAR EVITAR, NACIMIENTO++ NO, EVITAR MÁS INTENTAR.
+Eso es por la política de control de nacimientos que intenta evitar los nacimientos.	ESO MOTIVO POLÍTICA CONTROL NACIMIENTO++ INTENTAR EVITAR, NACIMIENTO++ NO, EVITAR MÁS INTENTAR.
+y a que las muertes debido al SIDA también han sido mayores de lo esperado.	ADEMÁS PERSONA+ MUERTO+ MOTIVO SIDA MÁS CRECER.
+Además las personas muertas por el SIDA han crecido más.	ADEMÁS PERSONA+ MUERTO+ MOTIVO SIDA MÁS CRECER.
+Hasta el año 2020, el crecimiento de la población mundial será de 64 millones de personas al año	HASTA TOCA AÑO 2020 CRECER EN-TOTAL EN-UN-AÑO 64000000 PERSONA+ EN-UN-AÑO.
+Hasta el año 2020 crecerá en un año, en total, 64 millones de personas al año.	HASTA TOCA AÑO 2020 CRECER EN-TOTAL EN-UN-AÑO 64000000 PERSONA+ EN-UN-AÑO.
+En la actualidad la cifra está en torno a los 78 millones.	EN-ESTE-MOMENTO, AHORA-MISMO, NÚMERO CIFRA 78000000 PERSONA+ EN-UN-AÑO.
+En este momento, en la actualidad, la cifra es de 78 millones de personas en un año.	EN-ESTE-MOMENTO, AHORA-MISMO, NÚMERO CIFRA 78000000 PERSONA+ EN-UN-AÑO.
+En el año 2050 se estima que la población crecerá en 33 millones de personas por año.	TOCA AÑO 2050, MÁS-O-MENOS+, ESTIMAR, MÁS-O-MENOS,33000000 PERSONA+ EN-UN-AÑO.
+En el año 2050, más o menos, se estima 33 millones de personas en un año.	TOCA AÑO 2050, MÁS-O-MENOS+, ESTIMAR, MÁS-O-MENOS, 33000000 PERSONA+ EN-UN-AÑO.
+En definitiva, se prevé que la población no crecerá tanto como estaba previsto en un principio.	EN-RESUMEN, MÁS-O-MENOS+, PERSONA+ CRECER NO. AL-PRINCIPIO PENSAR CRECER++, AHORA VER LENTO MENOS++.
+En resumen, más o menos, la población crece exageradamente. Al principio se pensaba en un crecimiento exagerado, ahora se ve que es lento, que es menor.	EN-RESUMEN, MÁS-O-MENOS+, PERSONA+ CRECER NO. AL-PRINCIPIO PENSAR \cl{crecer cada vez más y muy rápidamente}, AHORA VER LENTO MENOS++.
+Las tasas más altas de crecimiento de la población corresponden a los países más pobres, deprimidos y subdesarrollados.	MÁS-O-MENOS EN-TOTAL NÚMERO CIFRA PERSONA+ NORMALMENTE PAÍS++ QUIÉN?, PAÍS+ POBRE, DESARROLLO NO-HAY, PAÍS+ DEPRIMIDO.
+Más o menos, en total, la cifra de personas normalmente se da en los países pobres, subdesarrollados, deprimidos.	MÁS-O-MENOS EN-TOTAL NÚMERO CIFRA PERSONA+ NORMALMENTE PAÍS++ QUIÉN?, PAÍS+ POBRE, DESARROLLO NO-HAY, PAÍS+ DEPRIMIDO.
+Por contraste, en 61 países, donde reside casi la mitad de la población mundial, las parejas están teniendo menos de 2 hijos por mujer, cantidad necesaria para que haya un reemplazamiento generacional.	EN-CAMBIO, COMPARACIÓN+, 61 PAÍS++ CASI DENTRO VIVIR PERSONA MITAD PERSONA+ VIVIR MUNDO,PAREJA+ NORMALMENTE, HIJO 2 NO, MENOS. UN MUJER SABER 2 HIJOS DEBER PARA EVOLUCIÓN CONTINUAR+ DEBER.
+En cambio, en comparación, en 61 países donde viven casi la mitad de las personas del mundo, las parejas normalmente tienen menos de dos hijos. Se sabe que una mujer debe tener dos hijos para que la evolución continúe.	EN-CAMBIO, COMPARACIÓN+, 61 PAÍS++ CASI DENTRO VIVIR PERSONA MITAD PERSONA+ VIVIR MUNDO,PAREJA+ NORMALMENTE, HIJO 2 NO, MENOS. UN MUJER SABER 2 HIJOS DEBER PARA EVOLUCIÓN CONTINUAR+ DEBER.
+En América del Norte, Japón y Europa, el crecimiento de la población prácticamente se ha detenido.	EJEMPLO AMÉRICA NORTE, JAPÓN, TAMBIÉN EUROPA PERSONA+ CRECER NO, DETENER, PARAR.
+Por ejemplo, en América del Norte, Japón y Europa el crecimiento de la población no es exagerado, se ha parado, se ha detenido.	EJEMPLO AMÉRICA NORTE, JAPÓN, TAMBIÉN EUROPA PERSONA+ CRECER NO, DETENER, PARAR.
+Cada mujer de los países de la Unión Europea tiene 1 hijos.	UN MUJER PAÍS+ UNIÓN EUROPEA EN-TOTAL HIJO 1 HIJO UN MUJER.
+En los países de la Unión Europea, en total, cada mujer tiene 1 hijos.	UN MUJER PAÍS+ UNIÓN EUROPEA EN-TOTAL HIJO 1 HIJO UN MUJER.
+España está a la cabeza de los países con la tasa de fecundidad más baja, con un promedio de 1 hijo por mujer.	ESPAÑA, PAÍS ESPAÑA, PRIMERO NACIMIENTO++ MUY-POCO+, MÁS-O-MENOS, 1 HIJO UN MUJER.
+España es el primer país en baja tasa de natalidad, más o menos, 1 hijo por mujer.	ESPAÑA, PAÍS ESPAÑA, PRIMERO NACIMIENTO++ MUY-POCO+, MÁS-O-MENOS, 1 HIJO UN MUJER.
+En España las tasas de natalidad están descendiendo desde hace 20 años, circunstancia que no se ha dado en ningún otro país de Europa.	ESPAÑA EN-TOTAL NACIMIENTO++ EN-UN-AÑO DESDE-TIEMPO-HASTA-AHORA 2 0 AÑO DESCENDER, IGUAL PAÍS OTRO PAÍS EUROPA NO-HAY, ÚNICO ESPAÑA.
+En España la tasa anual de natalidad desde hace 20 años hasta ahora ha descendido, no hay otro país así en toda Europa, el único es España.	ESPAÑA EN-TOTAL NACIMIENTO++ EN-UN-AÑO DESDE-TIEMPO-HASTA-AHORA 2 0 AÑO DESCENDER, IGUAL PAÍS OTRO PAÍS EUROPA NO-HAY, ÚNICO ESPAÑA.
+Italia y Japón son los países que tienen la población más anciana, pero en el 2050 está previsto que este puesto lo ocupe España.	ITALIA, JAPÓN, ESOS PAÍS+ AHORA-MISMO EDAD TERCERA MÁS, PERO TOCA 2 0 5 0 QUIÉN? CABEZA, PRIMERO, QUIÉN?, ESPAÑA.
+En la actualidad Italia y Japón tienen más personas de la tercera edad, pero cuando llegue el 2050 España será el primero, estará a la cabeza.	ITALIA, JAPÓN, ESOS PAÍS+ AHORA-MISMO EDAD TERCERA MÁS, PERO TOCA 2 0 5 0 QUIÉN? CABEZA, PRIMERO, QUIÉN?, ESPAÑA.
+Las razones por las que las españolas tienen tan pocos hijos parecen ser:	MOTIVO PORQUE MUJER+ HIJO POCO MOTIVO?:
+Los motivos porque las mujeres tienen tan pocos hijos son:	MOTIVO PORQUE MUJER+ HIJO POCO MOTIVO?:
+El descenso en el número de casamientos.	AHORA-MISMO CASAMIENTO++ REDUCIR.
+En la actualidad se han reducido los casamientos.	AHORA-MISMO CASAMIENTO++ REDUCIR.
+A pesar de que ha aumentado el número de personas que conviven juntas sin estar casadas, no nacen apenas niños de estas parejas.	APARTE HAY PAREJA-DE-HECHO CRECER, NO-HACER-FALTA CASAR NO-HACER-FALTA, PERO PAREJA-DE-HECHO NO-HAY HIJO, NO-HAY.
+Por otra parte, las parejas de hecho han crecido, no hace falta casarse, pero las parejas de hecho no tienen hijos.	APARTE HAY PAREJA-DE-HECHO CRECER, NO-HACER-FALTA CASAR NO-HACER-FALTA, PERO PAREJA-DE-HECHO NO-HAY HIJO, NO-HAY.
+Las cifras de paro.	ADEMÁS PROBLEMA ESTADÍSTICA PARO.
+Además el problema de las estadísticas de paro.	ADEMÁS PROBLEMA ESTADÍSTICA PARO.
+En España se da una de las tasas de desempleo entre los jóvenes más altas de Europa y aquellos que consiguen un trabajo éste suele ser precario, inestable y mal pagado.	ESPAÑA PROBLEMA PARO JOVEN, PERO EUROPA PRIMERO PARO JOVEN QUIÉN? EUROPA, ADEMÁS PERSONA+ JOVEN ENCONTRAR TRABAJO PROBLEMA MOTIVO TRABAJO PRECARIO, MÁS TEMPORAL TRABAJO, DINERO GRAN-SUELDO NO, SUELDO-BAJO.
+En España el problema del paro juvenil es el más alto de Europa, además, los jóvenes que encuentran trabajo tienen el problema de que éste es precario, temporal y con bajo sueldo.	ESPAÑA PROBLEMA PARO JOVEN, PERO EUROPA PRIMERO PARO JOVEN QUIÉN? EUROPA, ADEMÁS PERSONA+ JOVEN ENCONTRAR TRABAJO PROBLEMA MOTIVO TRABAJO PRECARIO, MÁS TEMPORAL TRABAJO, DINERO GRAN-SUELDO NO, SUELDO-BAJO.
+El desempleo afecta más a las mujeres.	PROBLEMA TRABAJO MUJER PARO MÁS MUJER.
+El problema del trabajo femenino, hay más paro en la mujer.	PROBLEMA TRABAJO MUJER PARO MÁS MUJER.
+El empresario tiene miedo a que las mujeres se queden embarazadas	PERSONA EMPRESA PROPIETARIO MIEDO MOTIVO MUJER EMBARAZO,
+y tengan que pedir permiso de maternidad.	ADEMÁS SABER DESPUÉS DEBER PEDIR PARA EMBARAZO CUIDAR POR-ESO PROBLEMA.
+además saben que después deben pedir la baja maternal por eso es un problema.	ADEMÁS SABER DESPUÉS DEBER PEDIR PARA EMBARAZO CUIDAR POR-ESO PROBLEMA.
+Por ello, muchas mujeres renuncian a tener hijos.	MOTIVO MUCHAS-VECES MUJER DECIR HIJO EMBARAZO NACIMIENTO NADA, RECHAZAR.
+Por ello, muchas veces las mujeres dicen no tener hijos, lo rechazan.	MOTIVO MUCHAS-VECES MUJER DECIR HIJO EMBARAZO NACIMIENTO NADA, RECHAZAR.
+El coste de los hijos es muy alto. Para mantener un nivel de consumo determinado es necesario que trabajen los dos miembros de la pareja,	ADEMÁS HIJO CUIDAR MUY-CARO, PARA MANTENER BIEN, DEBER 2 PAREJA, DOS, HOMBRE, MUJER, TRABAJAR DOS.
+Además, el cuidado de los hijos es muy caro, para mantenerlos bien los dos de la pareja, el hombre y la mujer, deben trabajar los dos.	ADEMÁS HIJO CUIDAR MUY-CARO, PARA MANTENER BIEN, DEBER 2 PAREJA, DOS, HOMBRE, MUJER, TRABAJAR DOS.
+lo que muchas veces hace difícil que haya una conciliación entre trabajo y familia.	ENTONCES, MUCHAS-VECES PROBLEMA QUÉ?, TRABAJO, FAMILIA UNIR BIEN PROBLEMA.
+Entonces, muchas veces existe el problema de unir bien familia y trabajo.	ENTONCES, MUCHAS-VECES PROBLEMA QUÉ?, TRABAJO, FAMILIA UNIR BIEN PROBLEMA.
+Mientras que en España el peso de los hijos repercuta más sobre la mujer no se podrá esperar un aumento de la fecundidad.	ENTONCES, ESPAÑA EN-ESTE-MOMENTO HIJO RESPONSABLE MÁS QUIÉN? MUJER+, POSIBLE FUTURO MUJER NACIMIENTO++ CRECER NO.
+En España, en la actualidad, son las mujeres las máximas responsables de los hijos, puede que en el futuro la natalidad no crezca.	ENTONCES, ESPAÑA EN-ESTE-MOMENTO HIJO RESPONSABLE MÁS QUIÉN? MUJER+, POSIBLE FUTURO MUJER NACIMIENTO++ CRECER NO.
+El año pasado, unas treinta mujeres murieron en España a manos de sus maridos. 	AÑO PASADO EN-TOTAL 3 0 MUJER+ MUERTO MOTIVO HOMBRE MARIDO SU MATAR+.
+El año pasado, en total, murieron 30 mujeres asesinadas por sus maridos.	AÑO PASADO EN-TOTAL 3 0 MUJER+ MUERTO MOTIVO HOMBRE MARIDO SU MATAR+.
+Además, se tramitaron más de 16000 denuncias por malos tratos de hombres a sus parejas.	ADEMÁS, EN-TOTAL 1 6 0 0 0 DENUNCIA MUJER DENUNCIA MARIDO PAREJA SU.
+Además, en total, hubo 16000 denuncias de mujeres a sus maridos o parejas.	ADEMÁS, EN-TOTAL 1 6 0 0 0 DENUNCIA MUJER DENUNCIA MARIDO PAREJA SU.
+Sin embargo, los especialistas dicen que se dan muchas más agresiones a las mujeres de las que se denuncian.	PERO, PERSONA+ AUTORIDAD++ DECIR NORMALMENTE MATAR, MALTRATO MÁS, DENUNCIA MENOS.
+Pero, las autoridades dicen que, normalmente hay más asesinatos, maltratos que denuncias.	PERO, PERSONA+ AUTORIDAD++ DECIR NORMALMENTE MATAR, MALTRATO MÁS, DENUNCIA MENOS.
+Los españoles han visto en diez días dos casos terribles.  	PERSONA+ ESPAÑA VIVIR EN-TOTAL DESDE-HACE-TIEMPO-HASTA-AHORA 10 DÍA 2 EJEMPLO HORRIBLE.
+Los españoles en diez días han visto dos ejemplos horribles.  	PERSONA+ ESPAÑA VIVIR EN-TOTAL DESDE-HACE-TIEMPO-HASTA-AHORA 10 DÍA 2 EJEMPLO HORRIBLE.
+En uno de ellos, una mujer moría a manos de su ex-novio, un preso peligroso en libertad.  	UN MUJER MUERTO MOTIVO EX NOVIO ANTES HOMBRE DENTRO CÁRCEL, AHORA LIBRE.
+Una mujer asesinada por su ex-novio que antes estaba en la cárcel y ahora estaba libre.  	UN MUJER MUERTO MOTIVO EX NOVIO ANTES HOMBRE DENTRO CÁRCEL, AHORA LIBRE.
+La mujer había realizado ya muchas denuncias por malos tratos.	ESA MUJER MUCHAS-VECES ANTES DENUNCIA+ MOTIVO MALTRATO.
+Esa mujer había denunciado muchas veces antes el maltrato.  	ESA MUJER MUCHAS-VECES ANTES DENUNCIA+ MOTIVO MALTRATO.
+En el otro caso, el marido arrojó a su mujer por el balcón de un séptimo piso.  	OTRO SEGUNDO MARIDO HOMBRE SABER BALCÓN SÉPTIMO-PISO TIRAR.
+En el segundo, el marido la tiró desde el balcón de un séptimo piso.  	OTRO SEGUNDO MARIDO HOMBRE SABER BALCÓN SÉPTIMO-PISO TIRAR.
+Ante esto, muchas personas nos preguntamos por qué suceden estos crueles actos de violencia.  	ENTONCES, MUCHAS-VECES PERSONA PENSAR, VER PORQUÉ TEMA MALTRATO PORQUÉ.
+Entonces, muchas veces las personas piensan porqué se da el tema del maltrato, porqué.	ENTONCES, MUCHAS-VECES PERSONA PENSAR, VER PORQUÉ TEMA MALTRATO PORQUÉ.
+A pesar de los datos anteriores, no podemos decir que el número de malos tratos haya aumentado en nuestra época;	ANTES DATO++ DECIR EN-TOTAL NÚMERO MALTRATO AHORA MÁS-NO, NO, NO-PODER CONTAR, NO-PODER,
+Los datos sobre el número total de malos tratos no son más ahora que antes, no se puede contar eso,	ANTES DATO++ DECIR EN-TOTAL NÚMERO MALTRATO AHORA MÁS NO, NO, NO-PODER CONTAR, NO-PODER,
+lo que ocurre es que la sociedad es más sensible y está más informada.	QUÉ-PASA?, AHORA-MISMO SOCIEDAD SENSIBLE, ADEMÁS RECIBIR-INFORMACIÓN++ CLARA POR-ESO.
+¿qué es lo que pasa?, que en la actualidad la sociedad es más sensible, además se recibe una información clara, por eso.	QUÉ-PASA?, AHORA-MISMO SOCIEDAD SENSIBLE, ADEMÁS RECIBIR-INFORMACIÓN++ CLARA POR-ESO.
+Este problema se ha dado en todas las épocas, culturas y clases sociales.  	PROBLEMA MALTRATO TODOS ÉPOCA DURANTE HISTORIA DURANTE, CULTURA, ETCÉTERA, ADEMÁS GRUPO+++.
+El problema del maltrato se ha dado en todas las épocas de la historia, en todas las culturas y grupos.  	PROBLEMA MALTRATO TODOS ÉPOCA DURANTE HISTORIA DURANTE, CULTURA, ETCÉTERA, ADEMÁS GRUPO+++.
+No es que ahora hayan aumentado, lo que ocurre es que se denuncia más que antes.  	AHORA ESPECIAL MÁS NO, AHORA QUÉ-PASA?, DENUNCIA.
+Ahora no se da especialmente más, lo que pasa ahora es que se denuncia.  	AHORA ESPECIAL MÁS NO, AHORA QUÉ-PASA?, DENUNCIA.
+Ahora, la mujer que denuncia se siente más apoyada.	AHORA MUJER TOCA DENUNCIA HAY APOYO,
+Ahora se apoya a la mujer que denuncia,	AHORA MUJER TOCA DENUNCIA HAY APOYO,
+Antes, las mujeres que se culpaban a sí mismas de recibir malos tratos, se consideraban malas esposas.	ANTES MUJER SENTIR CULPA MÍ, SENTIR MAL, NORMALMENTE MUJER PARECER MUJER ESPOSA MALA, POR-ESO.
+Antes la mujer se sentía culpable, se sentía mal, normalmente la mujer se consideraba mala esposa por eso.	ANTES MUJER SENTIR CULPA MÍ, SENTIR MAL, NORMALMENTE MUJER PARECER MUJER ESPOSA MALA, POR-ESO.
+Los factores que influyen en la violencia en el hogar son múltiples.  	ENTONCES, HAY DATO+++ PARA CASA MALTRATO INFLUENCIA QUÉ? ETCÉTERA.
+Hay datos que influyen en el maltrato en el hogar.  	ENTONCES, HAY DATO+++ PARA CASA MALTRATO INFLUENCIA QUÉ? ETCÉTERA.
+Se sabe que aquellas personas que durante la infancia han recibido malos tratos es más probable que sean agresivas y violentas en sus familias.  	SABER TOCA PERSONA HIJO PEQUEÑO DECIR RECIBIR-MALTRATO NORMALMENTE CRECER, DESPUÉS, CRECER, FAMILIA NORMALMENTE RECIBIR-MALTRATO CAPAZ FAMILIA MALTRATAR++, CAPAZ.
+Se sabe que cuando una persona es pequeña y recibe maltrato, normalmente crece y, después de crecer en una familia recibiendo maltrato es capaz de maltratar a su familia.	SABER TOCA PERSONA HIJO PEQUEÑO DECIR RECIBIR-MALTRATO NORMALMENTE CRECER, DESPUÉS, CRECER, FAMILIA NORMALMENTE RECIBIR-MALTRATO CAPAZ FAMILIA MALTRATAR++, CAPAZ.
+Los malos tratos se dan en todas las clases sociales,	NORMALMENTE MALTRATO TODOS GRUPO++ SOCIEDAD TODOS IGUAL HAY.
+Normalmente el maltrato se da en todos los grupos sociales por igual. 	NORMALMENTE MALTRATO TODOS GRUPO++ SOCIEDAD TODOS IGUAL HAY.
+aunque se ha podido comprobar que a menores recursos económicos hay más violencia.  	DECIR DINERO POBRE, POCO, NORMALMENTE MALTRATO MÁS.
+Si se es pobre, si se tiene poco dinero, normalmente se da más maltrato.	DECIR DINERO POBRE, POCO, NORMALMENTE MALTRATO MÁS.
+Cuando la situación económica es buena es más fácil separarse, pero si la mujer depende económicamente del hombre y teme no tener dinero para alimentar a sus hijos es probable que aguante las agresiones.	EJEMPLO SITUACIÓN DINERO BIEN PODER FÁCIL SEPARARSE, PERO MUJER EJEMPLO HOMBRE MARIDO DEBER DINERO MANTENER++ DESPUÉS, PROBLEMA SEPARARSE, HIJO, NORMALMENTE MUJER QUÉ-HACER?, AGUANTAR MALTRATO, AGUANTAR.
+Si la situación económica es buena, puede separarse fácilmente, pero si el marido debe mantener a la mujer, después está el problema de separarse, de los hijos. Normalmente, la mujer ¿qué hace?, aguanta el maltrato.	EJEMPLO SITUACIÓN DINERO BIEN PODER FÁCIL SEPARARSE, PERO MUJER EJEMPLO HOMBRE MARIDO DEBER DINERO MANTENER++ DESPUÉS, PROBLEMA SEPARARSE, HIJO, NORMALMENTE MUJER QUÉ-HACER?, AGUANTAR MALTRATO, AGUANTAR.
+Por lo general, la violencia en la pareja es más frecuente entre personas jóvenes, aunque las denuncias lleguen después de varios años de matrimonio.	EN-GENERAL DENTRO PAREJA VIOLENCIA USAR MÁS JOVEN, PODER DENUNCIA DESPUÉS MATRIMONIO, DESPUÉS DENUNCIA.
+En general, dentro se suele dar más maltrato en las parejas de jóvenes, pero puede que la denuncia se dé después del matrimonio.	EN-GENERAL DENTRO PAREJA VIOLENCIA USAR MÁS JOVEN, PODER DENUNCIA DESPUÉS MATRIMONIO, DESPUÉS DENUNCIA.
+Los expertos afirman que los primeros malos tratos ya se manifiestan desde el noviazgo, lo que ocurre es que inmediatamente después de la agresión viene el arrepentimiento, acompañado de las promesas y de las muestras de amor, que en la mayoría de las veces hacen que la víctima perdone.	PERSONA AUTORIDAD++ DECIR MALTRATO EMPEZAR CUANDO NOVIO+ EMPEZAR MALTRATO, PERO QUÉ-PASA?, DESPUÉS MALTRATO PERSONA ARREPENTIRSE ADEMÁS PEDIR-PERDÓN, ADEMÁS PEDIR-PERDÓN, DECLARACIÓN-DE-AMOR, MUCHAS-VECES QUÉ-PASA?, MUJER PERDONAR
+Las autoridades dicen que el maltrato empieza cuando son novios, pero ¿qué pasa?, después del maltrato la persona se arrepiente, pide perdón y declara su amor. Muchas veces lo que pasa es que la mujer perdona.	PERSONA AUTORIDAD++ DECIR MALTRATO EMPEZAR CUANDO NOVIO+ EMPEZAR MALTRATO, PERO QUÉ-PASA?, DESPUÉS MALTRATO PERSONA ARREPENTIRSE ADEMÁS PEDIR-PERDÓN, ADEMÁS PEDIR-PERDÓN, DECLARACIÓN-DE-AMOR, MUCHAS-VECES QUÉ-PASA?, MUJER PERDONAR
+También es importante señalar que factores como el consumo de alcohol o la contaminación pueden favorecer el maltrato.  	TAMBIÉN IMPORTANTE DECIR COSAS EJEMPLO BEBIDA ALCOHOL O CONTAMINACIÓN DAR-ME FÁCIL TRASTORNAR, MALTRATO
+También es importante decir que cosas como las bebidas alcohólicas o la contaminación pueden fácilmente trastornar y provocar el maltrato.	TAMBIÉN IMPORTANTE DECIR COSAS EJEMPLO BEBIDA ALCOHOL O CONTAMINACIÓN DAR-ME FÁCIL TRASTORNAR, MALTRATO
+El ritmo de vida de las grandes ciudades que favorece la excitabilidad y el estrés también pueden causar una mayor violencia en el hogar.	AHORA-MISMO CIUDAD GRANDE EVOLUCIÓN DAR-ME+ FÁCIL AGRESIVIDAD ADEMÁS ESTRÉS DAR-ME++ ADEMÁS CAPAZ DENTRO CASA MALTRATO MÁS.
+En la actualidad la evolución de las ciudades grandes facilita la agresividad y puede provocar estrés y puede que en el hogar haya más maltrato.  	AHORA-MISMO CIUDAD GRANDE EVOLUCIÓN DAR-ME+ FÁCIL AGRESIVIDAD ADEMÁS ESTRÉS DAR-ME++ ADEMÁS CAPAZ DENTRO CASA MALTRATO MÁS.
+Aunque el hecho de que haya más denuncias en las ciudades que en los pueblos no quiere decir que en estos últimos haya un número menor de malos tratos.  	PERO AHORA-MISMO CIUDAD DENUNCIA MÁS, PUEBLO MENOS, QUERER DECIR DENTRO PUEBLO, DENTRO, MALTRATO MENOS?, NO++, DEPENDER.
+Pero que en la actualidad se denuncie más en la ciudad que en los pueblos ¿quiere decir que en los pueblos hay menos maltrato? No, depende.	PERO AHORA-MISMO CIUDAD DENUNCIA MÁS, PUEBLO MENOS, QUERER DECIR DENTRO PUEBLO, DENTRO, MALTRATO MENOS?, NO++, DEPENDER.
+Los datos pueden que no nos estén dando un auténtico reflejo de la realidad.  	MUCHAS-VECES DATO++ DECIR DAR-ME INFORMACIÓN REAL NO.
+Muchas veces los datos no nos dan una información real.  	MUCHAS-VECES DATO++ DECIR DAR-ME INFORMACIÓN REAL NO.
+En las grandes ciudades la mujer puede hacer la denuncia sin que se sepa.  	CIUDAD GRANDE MUJER IR DENUNCIAR, SECRETO, DIVULGAR NO-HAY.
+En las ciudades grandes la mujer va a denunciar y hay secreto, no se divulga.  	CIUDAD GRANDE MUJER IR DENUNCIAR, SECRETO, DIVULGAR NO-HAY.
+En los pueblos y las ciudades pequeñas le puede costar más ir a un centro de salud o a la policía, 	PERO PUEBLO O CIUDAD PEQUEÑA COSTAR IR CENTRO SALUD O POLICIA, IR COSTAR
+Pero en los pueblos o en las ciudades pequeñas cuesta ir al centro de salud o a la policía	PERO PUEBLO O CIUDAD PEQUEÑA COSTAR IR CENTRO SALUD O POLICIA, IR COSTAR
+porque es probable que la conozcan a ella, a su marido, a la familia de ambos, etc.  	PORQUE POSIBLE CONOCER PERSONA MUJER O HOMBRE MARIDO O FAMILIA LOS-DOS, POSIBLE, ETCÉTERA.
+porque es posible que conozcan a la mujer o al marido o a la familia de ambos, etcétera.	PORQUE POSIBLE CONOCER PERSONA MUJER O HOMBRE MARIDO O FAMILIA LOS-DOS, POSIBLE, ETCÉTERA.
+Te voy a contar un día en la vida de mi hermana.  	YO CONTAR VIDA MI HERMANO-MUJER. YO CONTAR UN DÍA COMPLETO.
+Te voy a contar la vida de mi hermana. Te voy a contar un día completo.	YO CONTAR VIDA MI HERMANO-MUJER. YO CONTAR UN DÍA COMPLETO.
+Mi hermana se llama Ana y tiene 5 años.  	ELLA NOMBRE \dl{ANA}, EDAD CINCO.
+Ella se llama Ana. Tiene cinco años.	ELLA NOMBRE \dl{ANA}, EDAD CINCO.
+Por la mañana, Ana se despierta a las 8.30.  	POR-LA-MAÑANA DESPERTARSE HORA OCHO Y-MEDIA.
+Por la mañana se despierta a las ocho y media.  	POR-LA-MAÑANA DESPERTARSE HORA OCHO Y-MEDIA.
+Ella nunca se levanta sola, porque es muy dormilona.	ELLA LEVANTARSE SOLO NUNCA PORQUE+ ENCANTAR DORMIR.
+Ella nunca se levanta sola porque le encanta dormir.  	ELLA LEVANTARSE SOLO NUNCA PORQUE+ ENCANTAR DORMIR.
+Cuando suena el despertador, ella nunca lo oye.  	TOCA DESPERTADOR ESCUCHAR PASAR+,
+No oye el despertador.  	TOCA DESPERTADOR ESCUCHAR PASAR+,
+Yo la despierto para que se lave antes de desayunar.  	YO LLAMAR A-ELLA PARA LAVARSE ANTES DESAYUNO.
+Yo la llamo para que se lave antes de desayunar.  	YO LLAMAR A-ELLA PARA LAVARSE ANTES DESAYUNO.
+Si hace mucho frío, le llevo la bata a la cama.	EJEMPLO FRÍO YO LLEVAR BATA CAMA LLEVAR,
+Si hace frío le llevo la bata a la cama.	EJEMPLO FRÍO YO LLEVAR BATA CAMA LLEVAR,
+Es una bata rosa con un oso dibujado en el bolsillo.  	COLOR ROSA, BOLSILLO OSO DIBUJO \cl{dibujo sobre el bolsillo}.
+Es de color rosa. Tiene un dibujo de un oso en el bolsillo.  	COLOR ROSA, BOLSILLO OSO DIBUJO \cl{dibujo sobre el bolsillo}.
+A Ana le gusta mucho su bata.  	ELLA \name{ANA} ENCANTAR BATA.
+A Ana le encanta la bata.  	ELLA \name{ANA} ENCANTAR BATA.
+Después de salir del baño, desayunamos.  	FIN SERVICIO, FIN, LOS-DOS DESAYUNAR.
+Cuando termina en el servicio, las dos vamos a desayunar.  	FIN SERVICIO, FIN, NOSOTROS 2 DESAYUNAR.
+A Ana le gusta desayunar despacio.  	ELLA \name{ANA} ENCANTAR DESPACIO DESAYUNAR DESPACIO,
+A Ana le encanta desayunar despacio.  	Ella \name{ANA} ENCANTAR DESPACIO DESAYUNAR DESPACIO,
+A veces mamá le dice que se dé prisa porque va a llegar tarde a clase.  	MUCHAS-VECES MAMÁ DECIR POR-FAVOR, HORA MUY-TARDE, CLASE, VAMOS DEPRISA.
+Muchas veces mamá le dice: por favor, es tarde para la clase, date prisa.  	MUCHAS-VECES MAMÁ DECIR POR-FAVOR, HORA MUY-TARDE, CLASE, VAMOS DEPRISA.
+Ella desayuna todos los días leche caliente y una tostada con aceite.  	ELLA TODOS-LOS-DÍAS LECHE CALIENTE ADEMÁS TOSTADA ACEITE, TODOS-LOS-DÍAS DESAYUNAR.
+Ella todos los días desayuna leche caliente y tostada con aceite.  	ELLA TODOS-LOS-DÍAS LECHE CALIENTE ADEMÁS TOSTADA ACEITE, TODOS-LOS-DÍAS DESAYUNAR.
+Los domingos papá compra churros y,	DOMINGO+ PAPÁ CHURRO COMPRAR,
+Los domingos papá compra churros y	DOMINGO+ PAPÁ CHURRO COMPRAR,
+entonces, Ana cambia su desayuno.  	ELLA CAMBIAR DESAYUNO, CAMBIAR.
+ella cambia el desayuno.	ELLA CAMBIAR DESAYUNO, CAMBIAR.
+Tras desayunar, Ana y yo cogemos nuestras mochilas y nos vamos al colegio.  	FIN DESAYUNO NOSOTROS 2 IR PONERSE-LA-MOCHILA IR COLEGIO.
+Después de desayunar, las dos nos ponemos las mochilas y nos vamos al colegio.	FIN DESAYUNO NOSOTROS 2 IR PONERSE-LA-MOCHILA IR COLEGIO.
+Papá nos lleva a la esquina de la calle.	PAPÁ ACOMPAÑAR ESQUINA CALLE,
+Papá nos acompaña a la esquina de la calle.	PAPÁ ACOMPAÑAR ESQUINA CALLE,
+Allí nos recoge el autobús del colegio.  	ESQUINA, Í VENIR AUTOBÚS. AUTOBÚS ESPECIAL COLEGIO.
+En la esquina viene el autobús del colegio.	ESQUINA, Í VENIR AUTOBÚS. AUTOBÚS ESPECIAL COLEGIO.
+Cuando llega el autobús, todos los niños se ponen en fila. Los menores entran los primeros.	TOCA VENIR AUTOBÚS TODOS NIÑOS \cl{fila de niños}. EJEMPLO PEQUEÑO PRIMERO,
+Cuando viene el autobús todos los niños nos ponemos en fila, los más pequeños los primeros.	TOCA VENIR AUTOBÚS TODOS NIÑOS \cl{fila de niños}. EJEMPLO PEQUEÑO PRIMERO,
+Ana siempre entra antes que yo.  	\name{ANA} PRIMERO, YO SEGUNDO.
+Primero va Ana y en segundo lugar yo.	\name{ANA} PRIMERO, YO SEGUNDO.
+Cuando llegamos al colegio, Ana se va a su clase.  	ENTONCES, TOCA COLEGIO \name{ANA} IR CLASE AULA SU.
+En el colegio Ana se va a su clase.	ENTONCES, TOCA COLEGIO \name{ANA} IR CLASE AULA SU.
+Yo no la vuelvo a ver hasta la hora del recreo.  	DESPUÉS, VERSE HORA DESCANSO VERSE.
+Después nos vemos en la hora del recreo.	DESPUÉS, VERSE HORA DESCANSO VERSE.
+Ana ya sabe leer y escribir. Es muy lista.  	ELLA \name{ANA} SABER LEER, ESCRIBIR, MUY-INTELIGENTE.
+Ana sabe leer y escribir, es muy inteligente.	ELLA \name{ANA} SABER LEER, ESCRIBIR, MUY-INTELIGENTE.
+La maestra dice que es una niña muy buena, aunque algo traviesa.  	MUJER-PROFESOR DECIR MUY BUENO, PERO UN-POCO TRAVIESO++.
+La profesora dice que es muy buena, pero un poco traviesa.	MUJER-PROFESOR DECIR MUY BUENO, PERO UN-POCO TRAVIESO++.
+En clase, Ana aprende muchas cosas. A ella le gusta mucho dibujar y leer. 	DENTRO CLASE \name{ANA} APRENDER MUCHO COSAS ETCÉTERA, ENCANTAR DIBUJAR, LEER,
+En la clase Ana aprende muchas cosas diferentes, le encanta dibujar, leer,	DENTRO CLASE \name{ANA} APRENDER MUCHO COSAS ETCÉTERA, ENCANTAR DIBUJAR, LEER,
+También le gusta aprender cosas sobre la vida de los animales.  	TAMBIÉN GUSTAR COSAS VIDA SU ANIMALES GUSTAR.
+también le gustan las cosas de la vida de los animales.	TAMBIÉN GUSTAR COSAS VIDA SU ANIMALES GUSTAR.
+A las dos y media vamos a casa.	HORA 2 Y-MEDIA, IR CASA.
+Nos lavamos las manos y ayudamos a mamá y a papá a poner la mesa.	LAVARSE-LAS-MANOS TAMBIÉN PADRE-MADRE MESA PREPARAR PLATO.
+Nos lavamos las manos y también papá y mamá ponen los platos en la mesa.	LAVARSE-LAS-MANOS TAMBIÉN PADRE-MADRE MESA PREPARAR PLATO.
+Tenemos mucha hambre y nos comemos todo lo que nos ponen	HAMBRE MUCHO, COMER PLATO AGOTADO.
+Tenemos mucha hambre y nos comemos todo el plato	HAMBRE MUCHO, COMER PLATO AGOTADO.
+Ana bebe zumo de naranja mientras almuerza.	BEBER ZUMO NARANJA COMER
+Bebe zumo de naranja con la comida.	BEBER ZUMO NARANJA COMER
+También le gusta comer pan blanco.	TAMBIÉN, GUSTAR QUÉ?, PAN BLANCO,
+También le gusta el pan blanco 	TAMBIÉN, GUSTAR QUÉ?, PAN BLANCO,
+Su plato favorito es la tortilla de patatas y el arroz blanco. 	ADEMÁS ENCANTAR ARROZ BLANCO, TORTILLA PATATA.
+y le encanta el arroz blanco y la tortilla de patatas.	ADEMÁS ENCANTAR ARROZ BLANCO, TORTILLA PATATA.
+Después de la comida, mamá siempre nos da un poco de chocolate.  	DESPUÉS COMER FIN COMER, CHOCOLATE MAMÁ DAR-ME.
+Después de comer, mamá nos da chocolate.	DESPUÉS COMER FIN COMER, CHOCOLATE MAMÁ DAR-ME.
+Tras el almuerzo, Ana y yo quitamos la mesa y ayudamos a poner los platos en el lavavajillas.	FIN COMIDA MEDIODÍA \name{ANA} NOSOTROS 2 MESA PLATO \cl{quitar los platos de la mesa} TAMBIÉN APOYAR PARA LAVAVAJILLAS PLATO DENTRO.
+Tras el almuerzo las dos quitamos la mesa y ayudamos a poner los platos en el lavavajillas. 	FIN COMIDA MEDIODÍA \name{ANA} NOSOTROS 2 MESA PLATO \cl{quitar los platos de la mesa} TAMBIÉN APOYAR PARA LAVAVAJILLAS PLATO DENTRO.
+Tras esto, nos sentamos con papá y mamá en el salón.  	FIN, SALÓN SENTAR PADRE-MADRE.
+Cuando terminamos nos sentamos en el salón con papá y mamá.	FIN, SALÓN SENTAR PADRE-MADRE.
+Unos días papá pone el vídeo y vemos películas de animales o de dibujos animados.  	ALGUNOS DÍA+ VER VÍDEO ANIMADO DIBUJO O ANIMALES.
+Algunos días vemos vídeos de dibujos animados o animales.  	ALGUNOS DÍA+ VER VÍDEO ANIMADO DIBUJO O ANIMALES.
+Otros días, jugamos a distintos juegos.  	OTRO DÍA, DEPENDER, JUGAR COSAS ETCÉTERA, DEPENDER.
+Otros días jugamos a distintas cosas, depende.	OTRO DÍA, DEPENDER, JUGAR COSAS ETCÉTERA, DEPENDER.
+A las 17 nos ponemos a hacer los deberes.  	HORA 5 NOSOTROS COLEGIO DEBERES PREPARAR.
+A las cinco y media preparamos los deberes del colegio.  	HORA 5 Y-MEDIA NOSOTROS COLEGIO DEBERES PREPARAR.
+Ana casi nunca tiene que hacer nada.	\name{ANA} HACER NADA.
+Ana no hace nada.  	\name{ANA} HACER NADA.
+Entonces, se pone a leer libros.  	ELLA HACER LIBRO LEER.
+Ella lee un libro.	ELLA HACER LIBRO LEER.
+Después, merendamos leche y un bocadillo.  	DESPUÉS, COMER BOCADILLO LECHE VASO.
+Después, comemos un bocadillo y un vaso de leche.  	DESPUÉS, COMER BOCADILLO LECHE VASO.
+Luego, mamá nos lleva al parque.  	DESPUÉS, MAMÁ ACOMPAÑAR PARQUE.
+Después, mamá nos acompaña al parque.  	DESPUÉS, MAMÁ ACOMPAÑAR PARQUE.
+Allí Ana ve a sus amigas y se ponen a jugar.  	ALLÍ PARQUE AMIGO+ \name{ANA} JUGAR+.
+Allí Ana juega con sus amigos.  	ALLÍ PARQUE AMIGO+ \name{ANA} JUGAR+.
+Al final, se pone muy sucia de correr y tirarse por el suelo.  	AL-FINAL, SUCIO MOTIVO CORRER; SUELO \cl{persona revolcándose en el suelo} SUCIO ROPA.
+Al final, se ensucia porque corre y se tira por el suelo y se ensucia la ropa.	AL-FINAL, SUCIO MOTIVO CORRER; SUELO \cl{persona revolcándose en el suelo} SUCIO ROPA.
+Luego, volvemos a casa.  	FIN, IR CASA.
+Luego, vamos a casa.	FIN, IR CASA.
+Lo primero que hacemos es bañarnos.  	PRIMERO QUÉ-HACER? DUCHARSE LAVARSE.
+Primero nos lavamos.  	PRIMERO QUÉ-HACER? DUCHARSE LAVARSE.
+Después, preparamos la ropa y la mochila para el día siguiente.  	DESPUÉS, ROPA, MOCHILA POR-LA-MAÑANA ESO PREPARAR+.
+Después, preparamos la ropa y la mochila de por la mañana.  	DESPUÉS, ROPA, MOCHILA POR-LA-MAÑANA ESO PREPARAR+.
+Mientras, mamá y papá nos hacen la cena.  	MIENTRAS PAPÁ-MAMÁ QUÉ-HACER? POR-LA-NOCHE COMER.
+Mientras, papá y mamá hacen la cena.	MIENTRAS PAPÁ-MAMÁ QUÉ-HACER? POR-LA-NOCHE COMER.
+Luego, nos vamos a la cama. Ana y yo dormimos en la misma habitación, pero cada una tiene su cama.  	FIN, IR CAMA NOSOTROS HABITACIÓN, PRIVADO CAMA \cl{camas separadas}.
+Luego, vamos a la cama, a la misma habitación pero a camas separadas.  	FIN, IR CAMA NOSOTROS HABITACIÓN, PRIVADO CAMA \cl{camas separadas}.
+Papá viene a leernos algún cuento hasta que nos dormimos.	PAPÁ CUENTO LEER HASTA NOSOTROS QUEDARSE-DORMIDO.
+Papá lee un cuento hasta que nos quedamos dormidas.	PAPÁ CUENTO LEER HASTA NOSOTROS QUEDARSE-DORMIDO.
+Algunas veces, de madrugada, Ana se despierta porque tiene sed.  	ALGUNAS-VECES DE-MADRUGADA \name{ANA} DESPERTAR MOTIVO SED
+Algunas veces, de madrugada, Ana se despierta porque tiene sed.	ALGUNAS-VECES DE-MADRUGADA \name{ANA} DESPERTAR MOTIVO SED
+Entonces, llama a mamá o a papá y ellos le traen un vaso de agua.  	ELLA QUÉ-HACER?, PAPÁ O MAMÁ LLAMAR PARA AGUA VASO.
+Llama a papá o a mamá para que le traigan un vaso de agua.  	ELLA QUÉ-HACER?, PAPÁ O MAMÁ LLAMAR PARA AGUA VASO.
+Después sigue durmiendo hasta las 8.30 de la mañana.  	DESPUÉS, QUEDARSE-DORMIDO HASTA HORA OCHO Y-MEDIA POR-LA-MAÑANA.
+Después, se queda dormida hasta las ocho y media de la mañana.  	DESPUÉS, QUEDARSE-DORMIDO HASTA HORA OCHO Y-MEDIA POR-LA-MAÑANA.
+Buenos días.	BUENOS DÍAS.
+Hoy vamos a hablar sobre William Stokoe.	HOY TEMA STOKOE NOMBRE \dl{WILLIAM} \dl{STOKOE}.
+Esta es su foto.	MIRAR FOTO.
+William Stokoe nació en 1919 en EEUU y murió hace relativamente poco en el año 2000.	STOKOE NACER AÑO 1 9 1 9, ALLÍ AMÉRICA EEUU. ÉL MORIR HACE-POCO AÑO 2 0 0 0.
+Estudio Lingüística y trabajó durante mucho tiempo como profesor en la Universidad de Gallaudet.	ALLÍ ESTUDIAR LINGÜÍSTICA, ADEMÁS TRABAJAR DURANTE-MUCHO-TIEMPO PROFESOR UNIVERSIDAD GALLAUDET \dl{GALLAUDET}.
+Su trabajo como profesor se centró en la enseñanza tanto a sordos como oyentes que supieran lengua de signos.	ÉL SOLO ENSEÑAR CENTRAR \cl{personas de pie en semicírculo} SORDO ADEMÁS OYENTE SABER SIGNAR.
+En un principio enseñó a través del inglés la importancia de la lengua de signos a sus alumnos sordos.	STOKOE EN-UN-PRINCIPIO TRABAJAR INGLÉS ENSEÑAR \cl{personas de pie en semicírculo} ALUMNO SORDO.
+Gracias a sus investigaciones fue la primera persona del mundo en demostrar que la lengua de signos es una lengua y afirmó que contaba con tres parámetros: configuración, movimiento y lugar de articulación.	MIRAR DESCUBRIR++ SIGNAR SEÑALAR-LA-MANO REALMENTE IMPORTANTE UFF! INVESTIGAR. EL-PRIMERO ESTRENAR MUNDO, DEMOSTRAR SIGNAR LENGUA VERDAD EVIDENTE AUTÉNTICO, FONOLOGÍA HABER. EMPEZAR INVESTIGAR DESCUBRIR SOLO 3, PRIMERO CONFIGURACIÓN, SEGUNDO MOVIMIENTO, TERCERO LUGAR.
+Por otro lado creó el primer diccionario de lengua de signos americana, ASL.	TAMBIÉN ELABORAR CREAR DICCIONARIO EL-PRIMER ESTRENAR DICCIONARIO LENGUA-DE-SIGNOS AMÉRICA \dl{ASL}.
+Explicando en detalle cada uno de los signos que recopiló y agrupándolos dependiendo de la configuración, el movimiento y el lugar de articulación.	DETALLE ESTABLECER LINGUISTICO SIGNO+++ RECOPILAR, POR-EJEMPLO LUGAR, CONFIGURACION, ÁREA MOVIMIENTO.
+Gracias a Stokoe comenzaron a surgir investigaciones a nivel mundial sobre la lengua de signos	STOKOE GRACIAS MOTIVO MUNDO CREAR++ INVESTIGACIÓN LENGUA-DE-SIGNOS ESTE
+Descubrieron mucho acerca de la lingüística de esta lengua y que la lengua evolucionaba.	 LINGÜÍSTICA DESCUBRIR++ VARIOS, EJEMPLO SIGNAR SEÑALAR-LA-MANO EVOLUCIÓN.
+El signo que actualmente se usa para pasear es distinto al que se usaba antiguamente.	SIGNO ACTUAL PASEAR, HACE-MUCHO-TIEMPO DIFERENTE.
+Otro ejemplo... dejadme pensar. Ah sí, el signo de teléfono también era distinto antes.	OTRO EJEMPLO..., EJEMPLO ACTUAL TELÉFONO HACE-MUCHO-TIEMPO DIFERENTE.
+Es muy interesante, no lo sabía.	YA-VEO INTERESANTE, SABER NO.
+¿Por qué el signo de teléfono antiguamente era así?	PREGUNTAR SIGNO TELÉFONO-antiguo MOTIVO?
+Claro es que la forma original de los teléfonos antiguos era distinta a la actual.	CLARO! MOTIVO HACE-MUCHO-TIEMPO ANTIGUO TELÉFONO? FORMA DIFERENTE
+Estas investigaciones también demuestran que la lengua de signos comenzó utilizando el dactilológico para muchos de sus signos.	TAMBIÉN INVESTIGAR DESCUBRIR++ SIGNAR SIGNO++ ALGUNO EMPEZAR CREAR CÓMO? RECOGER DACTILOLOGÍA
+Por ejemplo el signo de Coca-Cola que se signa C-C porque el nombre contiene las dos C mayúsculas, y para ello se usa el dactilológico.	EJEMPLO COCA-COLA MOTIVO HABER 2 \dl{C}++ DACTILOLOGÍA.
+¿Se os ocurre algún otro ejemplo con dactilológico?	PENSAR OTRO DACTILOLOGÍA A-VER VENGA
+Es fácil.	FÁCIL.
+Por otro lado tenemos también signos que se parecen a palabras, pero mal entendidas.	OTRO TEMA MUCHO++ VER PALABRA++ PARECER SIGNO CREAR, MAL
+Claro es como para decir sangría que se usa el signo de SANGRE 	POR-EJEMPLO BEBIDA SANGRÍA PALABRA PARECIDO PARECER SANGRE
+Ahora nos vamos a centrar.	AHORA CENTRAR
+En España las investigaciones hablan de cuatro parámetros nuevos: configuración, lugar, orientación y movimiento.	ESPAÑA PERSONA INVESTIGAR FONOLOGÍA NUEVO SOLO 4. PRIMERO CONFIGURACIÓN, SEGUNDO LUGAR, TERCERO ORIENTACIÓN, CUARTO MOVIMIENTO.
+¿Me habéis entendido?	COMPRENDER A-MI?
+Ahora vamos a hacer unos ejercicios muy fáciles.	BIEN? AHORA EJERCICIO+ FÁCIL.
+Una pregunta, ¿el lugar de articulación da igual?	PREGUNTAR LUGAR TRONCO ARRIBA-O-ABAJO DAR-IGUAL?
+Da igual, vale.	VALE, DA-IGUAL DECIR.
+¡Muy bien! No hace falta que pensemos más signos.	MUY-BIEN, AHORA VOSOTROS SIGNO++ PENSAR NO, NADA.
+Ahora vamos abuscar en el DILSE, este es su signo.	AHORA BUSCAR DICCIONARIO \dl{LSE} SIGNO DILSE.
+En este signo la orientación es diferente, ¿por qué?	PREGUNTAR SIGNO ADICIONAL ORIENTACIÓN DIFERENTE. MOTIVO?
+Buena pregunta.	MUY-BIEN.
+Es porque este signo consta de dos orientaciones. Empieza con la palma de la mano hacia atrás y acaba con la palma hacia delante.	MOTIVO SIGNO ADICIONAL 2 ORIENTACIÓN PRINCIPIO \cl{palma de la mano hacia atrás}, LUEGO \cl{palma hacia delante}.
+Vamos a hablar de la vida de diferentes personas.	AHORA TEMA ESPECIFÍCO VIDA PERSONA++.
+En esta ocasión hablaremos de Félix Pinedo, una persona muy popular e importante por haber sido presidente de la Confederación Nacional de Sordos de España durante 15 años y profesor de lecto-escritura de personas sordas durante más de 50 años.	PERSONA POPULAR FÉLIX-PINEDO NOMBRE \dl{FÉLIX} \dl{PINEDO}. PERSONA POPULAR VAYA! IMPORTANTE MOTIVO ÉL PRESIDENTE CONFEDERACIÓN NACIONAL ESPAÑA PERSONA++ SORDA. ÉL ASUMIR CARGO DURANTE 1 5 AÑO. ADEMÁS TAMBIÉN PROFESOR SORDO GRAMÁTICA ESCRITURA. VAYA! YA DURANTE 50 AÑO MÁS-DE.
+Ahora vamos a ver una entrevista con Félix en la que seguro encontrareis cosas interesantes y curiosidades.	AHORA VER ENTREVISTA VISIONAR SEGURO CURIOSO CURIOSIDAD INTERESANTE SEGURO.
+Hola, ¿qué tal?	HOLA, QUÉ-TAL?
+Bien.	BIEN
+Vamos a hacer una breve entrevista a Félix.	AHORA ENTREVISTA BREVE A-ÉL FÉLIX.
+¿Dónde naciste?	TÚ NACER DÓNDE?
+Nací en un pueblo de País Vasco, de Bilbao.	PUEBLO, PAÍS-VASCO, BILBAO ZONA.
+Concretamente en Sestao. Este es el signo.	PUEBLO NOMBRE \dl{SESTAO} SIGNO SESTAO.
+Muy bien. ¿Qué día naciste?	 MUY-BIEN. TÚ FECHA NACER?
+El día 9 de agosto de 1935	9 AGOSTO 1 9 3 5
+Ah, y ¿ahora dónde vives?	¡AH! AHORA TÚ VIVIR DÓNDE?
+En Madrid, bueno realmente en Madrid capital no. Vivo en San Fernando de Henares, un pueblo de Madrid.	MADRID. MADRID NO, PUEBLO CERCA NOMBRE SAN FERNANDO \dl{HENARES}
+Por muchas cosas.	MOTIVO MUCHA++ COSA++.
+El primer motivo es que antes no había casi libros escritos por sordos, alguno nada más.	PRIMERO ANTES HABER NO LIBRO ESCRIBIR SORDO NADA, 1 2 3
+Y yo quería que los oyentes conociesen a los sordos porque los sordos conocemos ya a los oyentes.	 YO QUERER OYENTE OBJETIVO CONOCER ELLOS-A-ELLOS SORDO PORQUE SORDO, TÚ YO ÉL, CONOCER PERSONA OYENTE.
+Faltaba que ellos entendiesen qué es una persona sorda, que no es alguien torpe y que mueve las manos y ya está, que se dieran cuenta de esto.	OYENTE SORDO QUÉ? SABER NO. SORDO TORPE, TONTO, SIGNAR-MAL FALTA EXPLICAR, OYENTE CONOCER, DAR-CUENTA.
+Por eso he ido escribiendo diferentes materiales, y que además es algo que me gusta mucho.	MOTIVO PRIMERO, SEGUNDO, TERCERO LIBRO CREAR++ COSA++ GUSTAR MUCHO.
+Ahora ya hay muchos materiales pero creo que al principio fue clave	AHORA YA CREAR++ MUCHO++ MUY-BIEN PERO YO PENSAR ESO PRINCIPIO ETAPA SER IMPORTANTE.
+¡Qué curioso!	AH! CURIOSO!
+Y de la época en la que estuviste como presidente, ¿de qué te sientes más orgulloso?	PERGUNTAR TÚ HACE-TIEMPO MÁS SENTIR ORGULLOSO ÉPOCA CUÁL?
+Es difícil porque la palabra exacta no es orgulloso.	ORGULLOSO DIFÍCIL PALABRA ORGULLOSO NO EXACTAMENTE
+Pero lo que sí podría decirte, que me haya podido hacer sentir orgulloso.	DIFERENTE PODER DECIR PARA-MÍ MÁS ORGULLOSO QUÉ?
+A la edad de siete años fuí una persona sorda.	YO PERSONA SORDA SIETE-AÑOS.
+Tuve mucha paciencia inmerso en un mundo oyente, y en esa situación los sordos siempre nos sentimos por detrás, inferiores.	 PACIENCIA++ MUNDO OYENTE. SORDO SIEMPRE INFERIORIDAD.
+Yo me esforcé, estudié y poco a poco conseguí la igualdad con los oyentes.	YO ESTUDIAR MUCHO-ESFUERZO DESIGUAL SUBIR++ IGUALDAD OYENTE.
+Yo creo que para mí el orgullo es que los sordos, los jóvenes sordos, hagan lo mismo que yo.	YO PENSAR ORGULLOSO PARA-MÍ. YO QUERER DAR SORDO A-TODOS JOVEN++ IGUAL YO.
+No puede ser que se vean incapaces, que son menos que los oyentes, que los oyentes están por encima de los sordos.	PODER NO ELLOS SORDO YO SENTIR MENOSPRECIAR, SORDOYO MENOSPRECIAR OYENTE ENCIMA.
+Los sordos si trabajan y se esfuerzan, estudian y aprenden poco a poco conseguirán lo mismo y se sentirán más orgullosos aún.	SORDO TRABAJAR, MUCHO-ESFUERZO, ESTUDIAR, APRENDER, DESIGUAL SUBIR++ MÁS ORGULLOSO.
+La vida es fácil.	VIDA FÁCIL.
+De modo que, como he dicho, los sordos si trabajan si se esfuerzan y si estudian irán progresando, y tendrán más mérito incluso quelos oyentes.	SORDO SI TRABAJAR, ESTUDIAR PROGRESAR TRABAJO MÁS MÉRITO MÁS-QUE-ÉL OYENTE.
+Y yo los aplaudo, y me siento orgulloso de ellos.	MÁS FELICITACIÓN, ENHORABUENA, SORDO. ESO ORGULLOSO MÍO.
+Ahora me gustaría que nos dedicases este libro como regalo a los niños sordos.	AHORA GUSTAR TÚ FIRMAR MOTIVO NIÑO SORDO QUERER REGALAR A-ELLOS.
+Gracias.	GRACIAS.
+La prehistoria comienza hace aproximadamente 4.000.000 años  con el mono.	PERÍODO PREHISTORIA COMENZAR APROXIMADO ANTES 4 MILLONES MONO EMPEZAR
+Este evoluciona hasta la posición bípeda que consigue aproximadamente 600000 años antes de Cristo.	MONO EMPEZAR CABEZA \cl{levantar la cabeza} ANDAR. MUCHOS-AÑOS AVANZAR EVOLUCIONAR. HOMBRE APROXIMADO AÑO 6 0 0 0 0 0 CRISTO NACER ANTES.
+En este momento se descubre el fuego.	FUEGO DESCUBRIR.
+40000 años aC	AÑO 4 0 0 0 0 CRISTO NACER ANTES
+se inventan armas como la lanza y el arte epieza a avanzar	INVENTAR LANZA, EMPEZAR ARTE AVANZAR
+10000 aC se comienza a utilizar la agricultura y la ganadería	AÑO 1 0 0 0 0 CRISTO NACER ANTES, EMPEZAR AGRICULTURA ANIMALES CUIDAR.
+3500 años aC se inventa la rueda	AÑO 3 5 0 0 CRISTO NACER ANTES, INVENTAR RUEDA
+Después surge el pueblo egipcio.	DESPUÉS EGIPTO.
+Ahora vamos a centrarnos en la historia de las personas sordas.	AVANZAR AHORA TEMA ESPECÍFICO SORDO HISTORIA
+Durante toda la historia ha habido personas sordas que han sufrido grandes marginaciones y dificultades por el hecho de ser sordas	A-LO-LARGO-DEL-TIEMPO PARA-SIEMPRE SORDO HABER. SORDO INOCENTE, SUFRIR, OBSTÁCULO, DIFÍCIL, SITUACIÓN SORDO MARGINAR.
+No existe ninguna evidencia al respecto.	SER-ASÍ HISTORIA EVIDENCIA HABER? HABER NO.
+Ahora vamos al período que abarca desde 900 años aC hasta 500 años dC.	PERÍODO ANTIGÜEDAD AÑO 9 0 0 CRISTO NACER ANTES HASTA AÑO 5 0 0 CRISTO NACER DESPUÉS
+Comienza a utilizarse la escritura, comienza a haber reyes y reinos, religión, sociedad, comercio, etc.	EMPEZAR ESCRITURA, PAÍS REY, CIUDAD, RELIGIÓN, SOCIEDAD, COMERCIO, ETCÉTERA
+Por ejemplo en Egipto, Roma y Grecia. En el año 776 a.C. Grecia da comienzo a sus primeros Juegos Olímpicos.	EJEMPLO, EGIPTO, ROMA, GRECIA. UNA CURIOSIDAD, AÑO 7 7 6 CRISTO NACER ANTES, GRECIA EL-PRIMER ESTRENAR JUEGOS OLÍMPICOS.
+Centrándonos en la historia de las personas sordas, encontramos que en el siglo 8 aC, ya hay escritos que las mencionan.	AHORA ESPECÍFICO TEMA SORDO. SIGLO 8 CRISTO NACER ANTES, ESCRITO TEMA SORDO.
+Los Testigos de Jehová ya escribieron que las personas sordas no podían ser criticadas.	TESTIGO-JEHOVÁ DECIR PERSONA++ NOSOTROS SORDO SEÑALAR CRITICAR NO.
+El famoso filósofo Platón escribió que las personas sordas podían comunicarse perfectamente a través de sus gestos.	UN FILÓSOFO FAMOSO NOMBRE \dl{PLATÓN}, SIGNO PLATÓN, ESCRIBIR DECIR QUÉ? REALMENTE PERSONA++ SORDA GESTO++ ENTENDIMIENTO PERFECTO.
+En Grecia y Roma cualquier persona sorda nacida se abandonaba a su suerte en el río o en la montaña.	ANTES ÉPOCA GRECIA, ROMA, PERSONA SORDO NACER, COGER A-ÉL TIRAR A-ÉL RÍO, MONTAÑA TIRAR DEJAR.
+En la Edad Media, que abarca desde el año 500 al 1500 dC, la sociedad estaba organizada en estamentos. El rey, los nobles, el clero, el ejército y el pueblo.	PERÍODO EDAD MEDIA, AÑO EMPEZAR AÑO 5 0 0 HASTA 1 5 0 0, SOCIEDAD CÓMO? ESTAMENTO++. ESTAMENTO REY, ESTAMENTO NOBLE, IGLESIA, ESTAMENTO SOLDADO, ESTAMENTO PUEBLO LOS-DEMÁS.
+Éstos últimos vivían cerca de los palacios trabajando las tierras para comer y pagar al señor. La iglesia pagaba al rey.	PUEBLO PERSONA++ VIVIR CERCA PALACIO. AGRICULTURA COMER DAR NOBLE JEFE. TAMBIÉN IGLESIA REY.
+En el año 1125 se inventa la brújula.	CURIOSIDAD AÑO 1 1 2 5 INVENTAR BRÚJULA.
+En 1271 Marco Polo da la vuelta al mundo.	AÑO 1 2 7 1 HOMBRE NOMBRE \dl{MARCO} \dl{POLO} VIAJAR MUNDO ALREDEDOR-DEL-MUNDO.
+En 1397 se crea el primer banco en Italia, un hito histórico.	AÑO 1 3 9 7 ITALIA POR-PRIMERA-VEZ BANCO CREAR IMPORTANTE++.
+En 1455 se inventa la imprenta.	AÑO 1 4 5 5 INVENTAR IMPRENTA.
+¿qué hay de las personas sordas? La situación era la misma, continuaban marginadas y en situación de pobreza.	SORDO QUÉ? IGUAL++. VIVIR, MARGINAR, POBREZA.
+Tenían prohibido estudiar, no contaban con derechos ni tierras ya que no podían ni comprar ni vender.	EJEMPLO ESTUDIAR PROHIBIDO, DERECHO HABER NO. TIERRA PARCELA YO DINERO COMPRAR PODER NO, VENDER PODER NO++.
+En España sobre el año 1500 lo único que consiguieron fue la posibilidad de casarse.	ESPAÑA, AQUÍ AÑO 1000 500 APROXIMADO CASARSE PERMITIR NADA-MÁS.
+En la Edad Moderna, entre los años 1500 y 1800 se produjo un gran avance a todos los niveles si la comparamos con la Edad Media que fue una época de oscuridad.	EDAD MODERNA, AÑO APROXIMADO 1 5 0 0 HASTA AÑO 1 8 0 0 APROXIMADO, ÉPOCA IMPORTANTE. EDAD MODERNA AVANZAR. ANTES ANTERIOR EDAD MEDIA OSCURIDAD.
+Por ejemplo en el año 1492 se descubre América	POR-EJEMPLO AÑO 1 4 9 2 DESCUBRIR AMÉRICA.
+En 1522 seda la primera vuelta al mundo en barco.	AÑO 1 5 2 2 MUNDO BARCO VUELTA-AL-MUNDO POR-PRIMERA-VEZ.
+Fue una época de inventos y avances.	EDAD MODERNA MUCHO++ INVENTO++.
+Algunos ejemplos más: se inventan el telescopio, el microscopio,el termómetro etc.	EJEMPLO TELESCOPIO, MICROSCOPIO, TEMPERATURA TERMÓMETRO, ETCÉTERA.
+Hasta que llega la revolución industrial y la Revolución Francesa.	HASTA REVOLUCIÓN INDUSTRIAL, REVOLUCIÓN FRANCESA.
+A partir de ahí las personas sordas experimentan diversos avances.	ESTA ÉPOCA SORDO DESARROLLO ALGUNO.
+El monje Fray Ponce de León fue el primero en dedicarse a la enseñanza de personas sordas y demostró que podían aprender.	MONJE NOMBRE \dl{PONCE} \dl{DE} \dl{LEÓN} POR-PRIMERA-VEZ ENSEÑAR NIÑO++ SORDO. DEMOSTRAR SORDOAPRENDER PODER, ENSEÑAR.
+En la actualidad hay una estatua en su honor en el Parque del Retiro, en Madrid y en Oña, Burgos. Hay varias en España.	ACTUALIDAD PONCE ESTATUA HABER? DÓNDE? MADRID PARQUE RETIRO, BURGOS PUEBLO NOMBRE dl{OÑA}, ESPAÑA VARIOS-SITIOS.
+En 1550 aproximadamente, un pintor sordo llamado Navarrete "el Mudo" pintó innumerables obras de temática religiosa.	AÑO 1 5 5 0 APROXIMADAMENTE, UNA PERSONA PINTOR SORDO, SIGNO NAVARRETE NOMBRE \dl{NAVARRETE} \dl{EL MUDO}. PINTORFAMOSO CUADRO++ ESPECÍFICO RELIGIÓN CUADRO++.
+Muchas de ellas están en el Palacio de El Escorial en Madrid.	DÓNDE? PALACIO ESCORIAL \dl{ESCORIAL} PERTENECER DÓNDE? MADRID.
+Desde el año 1800 con la Revolución Industrial hasta la actualidad comienzan las migraciones, y las sociedades crecen y cambian.	ÉPOCA ACTUAL, AÑO  1 8 0 0, REVOLUCIÓN INDUSTRIAL, HASTA ACTUALIDAD, CAMBIO. MÁS INMIGRAR EMIGRAR, POBLACIÓN++ AUMENTAR, SOCIEDAD CAMBIAR.
+Por ejemplo se inventa la locomotora, el barco a vapor, la fotografía, el automóvil...	INVENTO++ EJEMPLO, LOCOMOTORA, BARCO VAPOR, FOTOGRAFÍA, AUTOMÓVIL, ETCÉTERA.
+En el año 1919 estalla la Primera Guerra Mundial y en el 1939 la Segunda.	GUERRA MUNDIAL AÑO 1 9 1 9, PRIMER GUERRA MUNDIAL. AÑO 1 9 3 9 SEGUNDA GUERRA MUNDIAL.
+En 1945 se crea la ONU con el objetivo de velar por los derechos humanos y la Paz.	AÑO 1 9 4 5 \dl{ONU} CREAR OBJETIVO DERECHO HUMANO, PAZ.
+En el año 1978 se crea la Constitución Española y en el año 1992 España se adhiere a Europa.	ESPAÑA, AQUÍ AÑO 1 9 7 8 CONSTITUCIÓN CREAR. AÑO 1 9 9 2 ESPAÑA EUROPA ADHERIR.
+La peseta da paso al euro en el año 2002.	AÑO 2 0 0 2 ESPAÑA AQUÍ PESETA FIN, CAMBIO EURO.
+El primer profesor sordo del mundo es Prádez.	PRIMER PROFESOR SORDO MUNDO SIGNO PRÁDEZ NOMBRE \dl{PRÁDEZ}.
+En el año 1851 aparece el primer diccionario de lengua de signos española	AÑO 1 8 5 1 PRIMER DICCIONARIO SIGNO++ ESPAÑA.
+y en 1906 se crea en Madrid la primera asociación de personas sordas de España.	AÑO 1 9 0 6 PRIMERA ASOCIACIÓN SORDOS, CREAR DÓNDE? MADRID.
+En 1936 se funda la Confederación Estatal de Personas Sordas Española cuyo presidente fue Juan Luis Marroquín	AÑO 1 9 3 6 CREAR CONFEDERACIÓN NACIONAL PERSONA++ SORDA ESPAÑA. PRESIDENTE QUIÉN? MARROQUÍN NOMBRE \dl{MARROQUÍN}.
+Se conserva una estatua en la Fundación CNSE.	ESTATUA DÓNDE? FUNDACIÓN-CNSE
+La Fundación CNSE se crea justo cuando estalla la Guerra Civil Española por lo que sufre un parón.	FUNDACIÓN-CNSE CREAR JUSTO ÉPOCA ESPAÑA GUERRA CIVIL,PARÓN.
+Cerca de la creación de la ONU, en 1945, se crea la WFD (Federación Mundial de Personas Sordas) dirigida a velar por los derechos humanos y luchar contra la discriminación de las personas sordas en el mundo.	AÑO 1 9 4 5 \dl{ONU} CREAR, POCO DESPUÉS CREAR WFD, FEDERACIÓN MUNDIAL PERSONA++ SORDA. ATENCIÓN DERECHO HUMANO MUNDO PROBLEMA MARGINAR++, DEJAR-DE-MARGINAR++, FOMENTAR MUNDO PERSONA++ SORDA.
+En 1978 en España se crea la Constitución Española que recoge todos los derechos humanos y por la que más adelante se luchará por incluir la lengua de signos.	ESPAÑA AÑO 1 9 7 8 CREAR CONSTITUCIÓN ESPAÑA. ÍNDICE TEMA++ DIFERENTE++ ESPECÍFICO DERECHO HUMANO. ÍNDICE DESPUÉS OBJETIVO LENGUA-DE-SIGNOS.
+El año 2007 fue un hito histórico para las personas sordas en España ya que se reconoce oficialmente la lengua de signos	AÑO 2 0 0 7 HITO IMPORTANTE, LEY RECONOCER LENGUA-DE-SIGNOS
+En la actualidad existen personas sordas destacadas y Andrés Rodríguez, sordo, ha escrito un libro en el que recopila a todos estos personajes españoles y nos cuenta sus logros. Mirad.	AHORA ÉPOCA MUCHO++ SORDO FAMOSO++. HACE-POCO LIBRO ESCRIBIR SORDA PERSONA NOMBRE \dl{ANDRÉS} \dl{RODRÍGUEZ} SIGNO ANDRÉS. LIBRO ESTE VARIOSPERSONA++ FAMOSA++. LIBRO ÉSTE CONTAR A-MI, MIRAR
